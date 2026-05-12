@@ -5,4 +5,5 @@
     <property id="cyclesPerSet" type="number">4</property>
     <property id="accelEnabled" type="boolean">true</property>
     <property id="accelThreshold" type="number">2500</property>
+    <property id="recordActivity" type="boolean">false</property>
 </properties>

@@ -59,22 +59,70 @@
     "configMin" : 1,
     "configMax" : 10,
     "configMaxLength" : null
+  }, {
+    "key" : "accelEnabled",
+    "valueType" : "boolean",
+    "defaultValue" : true,
+    "configTitle" : "AccelEnabledTitle",
+    "configPrompt" : null,
+    "configType" : "boolean",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
+  }, {
+    "key" : "accelThreshold",
+    "valueType" : "number",
+    "defaultValue" : 2500,
+    "configTitle" : "AccelThresholdTitle",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 1000,
+    "configMax" : 5000,
+    "configMaxLength" : null
+  }, {
+    "key" : "recordActivity",
+    "valueType" : "boolean",
+    "defaultValue" : false,
+    "configTitle" : "RecordActivityTitle",
+    "configPrompt" : null,
+    "configType" : "boolean",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : null,
+    "configMax" : null,
+    "configMaxLength" : null
   } ],
   "supportsLiveValidation" : false,
   "languages" : {
     "valyrian" : {
       "BreakDurationTitle" : "Break (min)",
-      "FitIntUnits" : "s",
       "CyclesTitle" : "Blocks per cycle",
       "LongBreakDurationTitle" : "Long Break (min)",
       "FitTasksLabel" : "Tasks",
+      "AccelThresholdTitle" : "Sensitivity (mG)",
+      "FitIntLabel" : "Interruptions",
+      "FitTasksUnits" : "tasks",
+      "AppName" : "Pomodoro",
+      "FitIntUnits" : "s",
       "FitFocusLabel" : "Focus",
       "FitFocusUnits" : "s",
-      "FitIntLabel" : "Interruptions",
       "PomodoroDurationTitle" : "Focus (min)",
-      "FitTasksUnits" : "tasks",
       "FitTasksChartTitle" : "Tasks Completed",
-      "AppName" : "Pomodoro"
+      "AccelEnabledTitle" : "Movement Detection",
+      "RecordActivityTitle" : "Save Activity in Garmin Connect"
     }
   }
 }

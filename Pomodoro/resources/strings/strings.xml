@@ -15,4 +15,6 @@
 
     <string id="AccelEnabledTitle">Movement Detection</string>
     <string id="AccelThresholdTitle">Sensitivity (mG)</string>
+
+    <string id="RecordActivityTitle">Save Activity in Garmin Connect</string>
 </strings>

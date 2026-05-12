@@ -149,11 +149,23 @@ class PomodoroView extends WatchUi.View {
     // Métodos llamados por el Delegate para cambiar de pantalla
     function nextPage() as Void {
         currentPage = (currentPage + 1) % TOTAL_PAGES;
+        updateManagerRefreshFlag();
         WatchUi.requestUpdate();
     }
 
     function prevPage() as Void {
         currentPage = (currentPage - 1 + TOTAL_PAGES) % TOTAL_PAGES;
+        updateManagerRefreshFlag();
         WatchUi.requestUpdate();
+    }
+
+    private function updateManagerRefreshFlag() as Void {
+        
+        if (currentPage == 0 || currentPage == 2) {
+            manager.uiNeeds1HzUpdate = true;
+        } else {
+            // Páginas 1 y 3 se quedan totalmente quietas ahorrando CPU
+            manager.uiNeeds1HzUpdate = false;
+        }
     }
 }

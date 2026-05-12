@@ -17,4 +17,7 @@
     <setting propertyKey="@Properties.accelThreshold" title="@Strings.AccelThresholdTitle">
         <settingConfig type="numeric" min="1000" max="5000"/>
     </setting>
+    <setting propertyKey="@Properties.recordActivity" title="@Strings.RecordActivityTitle">
+        <settingConfig type="boolean" />
+    </setting>
 </settings>

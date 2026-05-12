@@ -24,6 +24,7 @@ module Rez {
         (:initialized) var PomodoroDurationTitle as ResourceId;
         (:initialized) var FitTasksChartTitle as ResourceId;
         (:initialized) var AccelEnabledTitle as ResourceId;
+        (:initialized) var RecordActivityTitle as ResourceId;
     } // Strings
 
     module Styles {

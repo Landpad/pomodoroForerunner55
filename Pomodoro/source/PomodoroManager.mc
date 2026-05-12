@@ -47,7 +47,7 @@ class PomodoroManager {
     private var fitTasks as FitContributor.Field?;
 
     var uiNeeds1HzUpdate as Boolean = true;
-
+    var isRecordingEnabled as Boolean = true;
     var isAccelEnabled as Boolean = true;
     var accelThreshold as Number = 2500;
 
@@ -73,10 +73,23 @@ class PomodoroManager {
         isAccelEnabled = (accelOn != null ? accelOn : true);
         accelThreshold = (thresholdVal != null ? thresholdVal : 2500);
 
+        var recordVal = Properties.getValue("recordActivity");
+        isRecordingEnabled = (recordVal != null ? recordVal : true);
+
         if (!isAccelEnabled) {
             Sensor.unregisterSensorDataListener();
         } else {
             enableAccelerometer();
+        }
+
+        if (!isRecordingEnabled && session != null) {
+            if (session has :stop) { session.stop(); }
+            if (session has :discard) { session.discard(); }
+            session = null;
+        }
+
+        if (currentState == STATE_IDLE) {
+            timeRemaining = focusDurationSecs;
         }
 
         if (currentState == STATE_IDLE) {
@@ -127,28 +140,25 @@ class PomodoroManager {
             timeRemaining = focusDurationSecs;
             currentCycle = 1;
             isLongBreak = false;
-            
-            // Intentar crear la sesión solo si no existe
-            if (session == null && ActivityRecording has :createSession) {
+                        
+            if (isRecordingEnabled && session == null && ActivityRecording has :createSession) {
                 session = ActivityRecording.createSession({
                     :name=>"Pomodoro",
                     :sport=>ActivityRecording.SPORT_TRAINING
                 });
                 
                 if (session != null) {
-                    fitFocusTime = session.createField("focus_time", 0, FitContributor.DATA_TYPE_UINT32, {:mesgType=>FitContributor.MESG_TYPE_SESSION, :units=>"s"});
-                    fitInterruptionTime = session.createField("interruption_time", 1, FitContributor.DATA_TYPE_UINT32, {:mesgType=>FitContributor.MESG_TYPE_SESSION, :units=>"s"});
+                    fitFocusTime = session.createField("focus_time", 0, FitContributor.DATA_TYPE_FLOAT, {:mesgType=>FitContributor.MESG_TYPE_SESSION, :units=>"s"});
+                    fitInterruptionTime = session.createField("interruption_time", 1, FitContributor.DATA_TYPE_FLOAT, {:mesgType=>FitContributor.MESG_TYPE_SESSION, :units=>"s"});
                     fitTasks = session.createField("completed_tasks", 2, FitContributor.DATA_TYPE_UINT16, {:mesgType=>FitContributor.MESG_TYPE_RECORD, :units=>"tareas"});
                     session.start();
                 }
             }
             startTimer();
         } else if (currentState == STATE_PAUSED) {
-            // REANUDAR: Volvemos al estado anterior (Focus o Break)
             currentState = (previousState != STATE_IDLE) ? previousState : STATE_FOCUS;
-            
-            // SEGURIDAD: Solo iniciamos si la sesión existe y no está ya grabando
-            if (session != null && session has :start) {
+                        
+            if (isRecordingEnabled && session != null && session has :start) {
                 session.start();
             }
             updateFitFields();
@@ -163,7 +173,6 @@ class PomodoroManager {
             interruptionCount++;
             currentInterruptionTimer = 0;
             
-            // SEGURIDAD: Solo detenemos si la sesión existe y está grabando
             if (session != null && session has :stop) {
                 session.stop();
             }
@@ -174,7 +183,7 @@ class PomodoroManager {
 
     function stopAndSaveSession() as Void {
         stopTimer();
-        
+                
         if (session != null) {
             updateFitFields();
             if (session has :stop) { session.stop(); }
@@ -182,7 +191,6 @@ class PomodoroManager {
             session = null;
         }
         
-        // Reset de variables
         currentState = STATE_IDLE;
         previousState = STATE_IDLE;
         timeRemaining = focusDurationSecs;
@@ -255,7 +263,7 @@ class PomodoroManager {
         if (uiNeeds1HzUpdate) {
             WatchUi.requestUpdate();
         }
-                
+
     }
 
     private function updateFitFields() as Void {

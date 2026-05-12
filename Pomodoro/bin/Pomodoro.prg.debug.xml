@@ -24,405 +24,438 @@
         <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroApp.mc" id="10" lineNum="18" parent="globals/PomodoroApp" pc="268435789" symbol="onStop"/>
         <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroApp.mc" id="10" lineNum="19" parent="globals/PomodoroApp" pc="268435791" symbol="onStop"/>
         <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroApp.mc" id="10" lineNum="20" parent="globals/PomodoroApp" pc="268435804" symbol="onStop"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="162" parent="globals/PomodoroManager" pc="268435826" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="163" parent="globals/PomodoroManager" pc="268435828" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="165" parent="globals/PomodoroManager" pc="268435840" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="166" parent="globals/PomodoroManager" pc="268435853" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="167" parent="globals/PomodoroManager" pc="268435865" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="167" parent="globals/PomodoroManager" pc="268435882" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="168" parent="globals/PomodoroManager" pc="268435903" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="168" parent="globals/PomodoroManager" pc="268435920" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="169" parent="globals/PomodoroManager" pc="268435941" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="173" parent="globals/PomodoroManager" pc="268435953" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="174" parent="globals/PomodoroManager" pc="268435966" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="175" parent="globals/PomodoroManager" pc="268435979" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="176" parent="globals/PomodoroManager" pc="268435995" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="177" parent="globals/PomodoroManager" pc="268436008" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="178" parent="globals/PomodoroManager" pc="268436018" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="179" parent="globals/PomodoroManager" pc="268436031" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="180" parent="globals/PomodoroManager" pc="268436044" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="181" parent="globals/PomodoroManager" pc="268436057" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="183" parent="globals/PomodoroManager" pc="268436070" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="184" parent="globals/PomodoroManager" pc="268436086" symbol="stopAndSaveSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="74" parent="globals/PomodoroManager" pc="268436103" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="75" parent="globals/PomodoroManager" pc="268436105" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="76" parent="globals/PomodoroManager" pc="268436134" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="77" parent="globals/PomodoroManager" pc="268436163" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="78" parent="globals/PomodoroManager" pc="268436192" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="79" parent="globals/PomodoroManager" pc="268436221" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="80" parent="globals/PomodoroManager" pc="268436250" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="81" parent="globals/PomodoroManager" pc="268436279" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="82" parent="globals/PomodoroManager" pc="268436308" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="83" parent="globals/PomodoroManager" pc="268436337" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="85" parent="globals/PomodoroManager" pc="268436366" symbol="saveState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="146" parent="globals/PomodoroManager" pc="268436379" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="147" parent="globals/PomodoroManager" pc="268436381" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="148" parent="globals/PomodoroManager" pc="268436415" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="149" parent="globals/PomodoroManager" pc="268436431" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="150" parent="globals/PomodoroManager" pc="268436444" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="151" parent="globals/PomodoroManager" pc="268436463" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="154" parent="globals/PomodoroManager" pc="268436476" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="155" parent="globals/PomodoroManager" pc="268436506" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="157" parent="globals/PomodoroManager" pc="268436527" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="158" parent="globals/PomodoroManager" pc="268436539" symbol="pauseSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="288" parent="globals/PomodoroManager" pc="268436559" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="289" parent="globals/PomodoroManager" pc="268436563" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="290" parent="globals/PomodoroManager" pc="268436578" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="295" parent="globals/PomodoroManager" pc="268436718" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="244" parent="globals/PomodoroManager" pc="268436740" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="245" parent="globals/PomodoroManager" pc="268436742" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="246" parent="globals/PomodoroManager" pc="268436755" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="246" parent="globals/PomodoroManager" pc="268436768" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="247" parent="globals/PomodoroManager" pc="268436797" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="247" parent="globals/PomodoroManager" pc="268436810" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="248" parent="globals/PomodoroManager" pc="268436839" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="248" parent="globals/PomodoroManager" pc="268436852" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="194" parent="globals/PomodoroManager" pc="268436885" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="195" parent="globals/PomodoroManager" pc="268436887" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="196" parent="globals/PomodoroManager" pc="268436899" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="197" parent="globals/PomodoroManager" pc="268436933" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="111" parent="globals/PomodoroManager" pc="268436978" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="112" parent="globals/PomodoroManager" pc="268436980" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="113" parent="globals/PomodoroManager" pc="268436997" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="114" parent="globals/PomodoroManager" pc="268437010" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="115" parent="globals/PomodoroManager" pc="268437026" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="116" parent="globals/PomodoroManager" pc="268437039" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="119" parent="globals/PomodoroManager" pc="268437049" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="120" parent="globals/PomodoroManager" pc="268437076" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="125" parent="globals/PomodoroManager" pc="268437131" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="126" parent="globals/PomodoroManager" pc="268437144" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="127" parent="globals/PomodoroManager" pc="268437216" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="128" parent="globals/PomodoroManager" pc="268437288" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="129" parent="globals/PomodoroManager" pc="268437360" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="132" parent="globals/PomodoroManager" pc="268437384" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="133" parent="globals/PomodoroManager" pc="268437399" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="135" parent="globals/PomodoroManager" pc="268437416" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="138" parent="globals/PomodoroManager" pc="268437457" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="139" parent="globals/PomodoroManager" pc="268437487" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="141" parent="globals/PomodoroManager" pc="268437508" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="143" parent="globals/PomodoroManager" pc="268437523" symbol="startSession"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="259" parent="globals/PomodoroManager" pc="268437540" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="260" parent="globals/PomodoroManager" pc="268437544" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="260" parent="globals/PomodoroManager" pc="268437561" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="261" parent="globals/PomodoroManager" pc="268437565" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="262" parent="globals/PomodoroManager" pc="268437575" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="263" parent="globals/PomodoroManager" pc="268437582" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="264" parent="globals/PomodoroManager" pc="268437612" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="265" parent="globals/PomodoroManager" pc="268437625" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="266" parent="globals/PomodoroManager" pc="268437638" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="269" parent="globals/PomodoroManager" pc="268437651" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="270" parent="globals/PomodoroManager" pc="268437677" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="271" parent="globals/PomodoroManager" pc="268437703" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="273" parent="globals/PomodoroManager" pc="268437729" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="274" parent="globals/PomodoroManager" pc="268437762" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="275" parent="globals/PomodoroManager" pc="268437774" symbol="onSensorData"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="56" parent="globals/PomodoroManager" pc="268437797" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="57" parent="globals/PomodoroManager" pc="268437801" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="58" parent="globals/PomodoroManager" pc="268437823" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="59" parent="globals/PomodoroManager" pc="268437845" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="60" parent="globals/PomodoroManager" pc="268437867" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="62" parent="globals/PomodoroManager" pc="268437889" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="63" parent="globals/PomodoroManager" pc="268437920" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="64" parent="globals/PomodoroManager" pc="268437951" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="65" parent="globals/PomodoroManager" pc="268437982" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="67" parent="globals/PomodoroManager" pc="268438007" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="68" parent="globals/PomodoroManager" pc="268438024" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="69" parent="globals/PomodoroManager" pc="268438040" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="70" parent="globals/PomodoroManager" pc="268438053" symbol="reloadSettings"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="88" parent="globals/PomodoroManager" pc="268438067" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="89" parent="globals/PomodoroManager" pc="268438071" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="90" parent="globals/PomodoroManager" pc="268438093" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="91" parent="globals/PomodoroManager" pc="268438100" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="92" parent="globals/PomodoroManager" pc="268438110" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="93" parent="globals/PomodoroManager" pc="268438138" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="94" parent="globals/PomodoroManager" pc="268438166" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="95" parent="globals/PomodoroManager" pc="268438194" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="96" parent="globals/PomodoroManager" pc="268438222" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="97" parent="globals/PomodoroManager" pc="268438250" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="99" parent="globals/PomodoroManager" pc="268438278" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="100" parent="globals/PomodoroManager" pc="268438300" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="100" parent="globals/PomodoroManager" pc="268438307" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="102" parent="globals/PomodoroManager" pc="268438320" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="103" parent="globals/PomodoroManager" pc="268438342" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="103" parent="globals/PomodoroManager" pc="268438349" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="105" parent="globals/PomodoroManager" pc="268438362" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="106" parent="globals/PomodoroManager" pc="268438413" symbol="loadState"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="252" parent="globals/PomodoroManager" pc="268438432" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="253" parent="globals/PomodoroManager" pc="268438436" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="254" parent="globals/PomodoroManager" pc="268438451" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="255" parent="globals/PomodoroManager" pc="268438509" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="201" parent="globals/PomodoroManager" pc="268438547" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="202" parent="globals/PomodoroManager" pc="268438549" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="203" parent="globals/PomodoroManager" pc="268438562" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="204" parent="globals/PomodoroManager" pc="268438580" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="208" parent="globals/PomodoroManager" pc="268438593" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="209" parent="globals/PomodoroManager" pc="268438595" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="210" parent="globals/PomodoroManager" pc="268438612" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="211" parent="globals/PomodoroManager" pc="268438631" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="212" parent="globals/PomodoroManager" pc="268438650" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="213" parent="globals/PomodoroManager" pc="268438667" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="214" parent="globals/PomodoroManager" pc="268438679" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="217" parent="globals/PomodoroManager" pc="268438692" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="218" parent="globals/PomodoroManager" pc="268438712" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="219" parent="globals/PomodoroManager" pc="268438722" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="220" parent="globals/PomodoroManager" pc="268438738" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="222" parent="globals/PomodoroManager" pc="268438760" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="223" parent="globals/PomodoroManager" pc="268438770" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="224" parent="globals/PomodoroManager" pc="268438786" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="227" parent="globals/PomodoroManager" pc="268438805" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="228" parent="globals/PomodoroManager" pc="268438822" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="229" parent="globals/PomodoroManager" pc="268438841" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="230" parent="globals/PomodoroManager" pc="268438858" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="231" parent="globals/PomodoroManager" pc="268438870" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="232" parent="globals/PomodoroManager" pc="268438883" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="233" parent="globals/PomodoroManager" pc="268438899" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="235" parent="globals/PomodoroManager" pc="268438915" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="236" parent="globals/PomodoroManager" pc="268438932" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="237" parent="globals/PomodoroManager" pc="268438951" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="240" parent="globals/PomodoroManager" pc="268438973" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="241" parent="globals/PomodoroManager" pc="268438985" symbol="onTimerTick"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="281" parent="globals/PomodoroManager" pc="268439002" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="282" parent="globals/PomodoroManager" pc="268439006" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="283" parent="globals/PomodoroManager" pc="268439021" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="284" parent="globals/PomodoroManager" pc="268439073" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="25" lineNum="51" parent="globals/PomodoroManager" pc="268439095" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="25" lineNum="52" parent="globals/PomodoroManager" pc="268439097" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="25" lineNum="53" parent="globals/PomodoroManager" pc="268439109" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="187" parent="globals/PomodoroManager" pc="268439122" symbol="adjustTasks"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="188" parent="globals/PomodoroManager" pc="268439124" symbol="adjustTasks"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="189" parent="globals/PomodoroManager" pc="268439140" symbol="adjustTasks"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="189" parent="globals/PomodoroManager" pc="268439157" symbol="adjustTasks"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="190" parent="globals/PomodoroManager" pc="268439173" symbol="adjustTasks"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="191" parent="globals/PomodoroManager" pc="268439185" symbol="adjustTasks"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="27" lineNum="58" parent="globals/PomodoroDelegate" pc="268439202" symbol="onBack"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="27" lineNum="61" parent="globals/PomodoroDelegate" pc="268439204" symbol="onBack"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="28" lineNum="21" parent="globals/PomodoroDelegate" pc="268439207" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="28" lineNum="22" parent="globals/PomodoroDelegate" pc="268439209" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="28" lineNum="23" parent="globals/PomodoroDelegate" pc="268439227" symbol="onPreviousPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="44" parent="globals/PomodoroDelegate" pc="268439230" symbol="onMenu"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="45" parent="globals/PomodoroDelegate" pc="268439232" symbol="onMenu"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="47" parent="globals/PomodoroDelegate" pc="268439255" symbol="onMenu"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="50" parent="globals/PomodoroDelegate" pc="268439281" symbol="onMenu"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="51" parent="globals/PomodoroDelegate" pc="268439304" symbol="onMenu"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="54" parent="globals/PomodoroDelegate" pc="268439325" symbol="onMenu"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="8" parent="globals/PomodoroDelegate" pc="268439328" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="9" parent="globals/PomodoroDelegate" pc="268439330" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="10" parent="globals/PomodoroDelegate" pc="268439348" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="11" parent="globals/PomodoroDelegate" pc="268439358" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="31" lineNum="15" parent="globals/PomodoroDelegate" pc="268439369" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="31" lineNum="16" parent="globals/PomodoroDelegate" pc="268439371" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="31" lineNum="17" parent="globals/PomodoroDelegate" pc="268439389" symbol="onNextPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="27" parent="globals/PomodoroDelegate" pc="268439392" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="28" parent="globals/PomodoroDelegate" pc="268439396" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="30" parent="globals/PomodoroDelegate" pc="268439419" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="33" parent="globals/PomodoroDelegate" pc="268439445" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="34" parent="globals/PomodoroDelegate" pc="268439461" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="35" parent="globals/PomodoroDelegate" pc="268439483" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="37" parent="globals/PomodoroDelegate" pc="268439504" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="40" parent="globals/PomodoroDelegate" pc="268439522" symbol="onSelect"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="120" parent="globals/PomodoroView" pc="268439525" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="121" parent="globals/PomodoroView" pc="268439527" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="122" parent="globals/PomodoroView" pc="268439549" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="124" parent="globals/PomodoroView" pc="268439592" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="125" parent="globals/PomodoroView" pc="268439614" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="128" parent="globals/PomodoroView" pc="268439675" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="129" parent="globals/PomodoroView" pc="268439697" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="133" parent="globals/PomodoroView" pc="268439741" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="134" parent="globals/PomodoroView" pc="268439745" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="135" parent="globals/PomodoroView" pc="268439752" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="136" parent="globals/PomodoroView" pc="268439780" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="138" parent="globals/PomodoroView" pc="268439790" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="139" parent="globals/PomodoroView" pc="268439808" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="140" parent="globals/PomodoroView" pc="268439822" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="141" parent="globals/PomodoroView" pc="268439844" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="143" parent="globals/PomodoroView" pc="268439874" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="144" parent="globals/PomodoroView" pc="268439896" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="41" parent="globals/PomodoroView" pc="268439937" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="42" parent="globals/PomodoroView" pc="268439941" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="43" parent="globals/PomodoroView" pc="268439948" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="44" parent="globals/PomodoroView" pc="268439955" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="46" parent="globals/PomodoroView" pc="268439962" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="47" parent="globals/PomodoroView" pc="268439985" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="48" parent="globals/PomodoroView" pc="268439992" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="49" parent="globals/PomodoroView" pc="268439999" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="50" parent="globals/PomodoroView" pc="268440074" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="51" parent="globals/PomodoroView" pc="268440097" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="52" parent="globals/PomodoroView" pc="268440129" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="53" parent="globals/PomodoroView" pc="268440139" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="54" parent="globals/PomodoroView" pc="268440162" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="55" parent="globals/PomodoroView" pc="268440169" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="56" parent="globals/PomodoroView" pc="268440176" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="60" parent="globals/PomodoroView" pc="268440251" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="61" parent="globals/PomodoroView" pc="268440270" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="64" parent="globals/PomodoroView" pc="268440310" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="65" parent="globals/PomodoroView" pc="268440330" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="66" parent="globals/PomodoroView" pc="268440352" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="70" parent="globals/PomodoroView" pc="268440395" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="71" parent="globals/PomodoroView" pc="268440417" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="72" parent="globals/PomodoroView" pc="268440439" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="74" parent="globals/PomodoroView" pc="268440515" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="75" parent="globals/PomodoroView" pc="268440537" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="78" parent="globals/PomodoroView" pc="268440577" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="79" parent="globals/PomodoroView" pc="268440594" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="80" parent="globals/PomodoroView" pc="268440682" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="81" parent="globals/PomodoroView" pc="268440704" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="85" parent="globals/PomodoroView" pc="268440745" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="86" parent="globals/PomodoroView" pc="268440749" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="87" parent="globals/PomodoroView" pc="268440766" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="89" parent="globals/PomodoroView" pc="268440854" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="90" parent="globals/PomodoroView" pc="268440876" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="92" parent="globals/PomodoroView" pc="268440916" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="93" parent="globals/PomodoroView" pc="268440933" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="96" parent="globals/PomodoroView" pc="268440991" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="97" parent="globals/PomodoroView" pc="268441023" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="98" parent="globals/PomodoroView" pc="268441042" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="102" parent="globals/PomodoroView" pc="268441083" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="103" parent="globals/PomodoroView" pc="268441087" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="104" parent="globals/PomodoroView" pc="268441109" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="107" parent="globals/PomodoroView" pc="268441152" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="108" parent="globals/PomodoroView" pc="268441174" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="111" parent="globals/PomodoroView" pc="268441235" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="112" parent="globals/PomodoroView" pc="268441257" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="113" parent="globals/PomodoroView" pc="268441279" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="115" parent="globals/PomodoroView" pc="268441355" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="116" parent="globals/PomodoroView" pc="268441377" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="150" parent="globals/PomodoroView" pc="268441418" symbol="nextPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="151" parent="globals/PomodoroView" pc="268441420" symbol="nextPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="152" parent="globals/PomodoroView" pc="268441448" symbol="nextPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="155" parent="globals/PomodoroView" pc="268441465" symbol="prevPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="156" parent="globals/PomodoroView" pc="268441467" symbol="prevPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="157" parent="globals/PomodoroView" pc="268441501" symbol="prevPage"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="11" parent="globals/PomodoroView" pc="268441518" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="12" parent="globals/PomodoroView" pc="268441520" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="13" parent="globals/PomodoroView" pc="268441538" symbol="initialize"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="17" parent="globals/PomodoroView" pc="268441549" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="19" parent="globals/PomodoroView" pc="268441553" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="20" parent="globals/PomodoroView" pc="268441575" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="22" parent="globals/PomodoroView" pc="268441587" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="23" parent="globals/PomodoroView" pc="268441600" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="26" parent="globals/PomodoroView" pc="268441613" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="29" parent="globals/PomodoroView" pc="268441631" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="30" parent="globals/PomodoroView" pc="268441648" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="31" parent="globals/PomodoroView" pc="268441669" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="32" parent="globals/PomodoroView" pc="268441686" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="33" parent="globals/PomodoroView" pc="268441707" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="34" parent="globals/PomodoroView" pc="268441724" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="35" parent="globals/PomodoroView" pc="268441745" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="36" parent="globals/PomodoroView" pc="268441762" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="184" parent="globals/PomodoroManager" pc="268435826" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="185" parent="globals/PomodoroManager" pc="268435828" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="187" parent="globals/PomodoroManager" pc="268435840" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="188" parent="globals/PomodoroManager" pc="268435853" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="189" parent="globals/PomodoroManager" pc="268435865" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="189" parent="globals/PomodoroManager" pc="268435882" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="190" parent="globals/PomodoroManager" pc="268435903" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="190" parent="globals/PomodoroManager" pc="268435920" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="191" parent="globals/PomodoroManager" pc="268435941" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="194" parent="globals/PomodoroManager" pc="268435953" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="195" parent="globals/PomodoroManager" pc="268435966" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="196" parent="globals/PomodoroManager" pc="268435979" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="197" parent="globals/PomodoroManager" pc="268435995" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="198" parent="globals/PomodoroManager" pc="268436008" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="199" parent="globals/PomodoroManager" pc="268436018" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="200" parent="globals/PomodoroManager" pc="268436031" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="201" parent="globals/PomodoroManager" pc="268436044" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="202" parent="globals/PomodoroManager" pc="268436057" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="204" parent="globals/PomodoroManager" pc="268436070" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="11" lineNum="205" parent="globals/PomodoroManager" pc="268436086" symbol="stopAndSaveSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="100" parent="globals/PomodoroManager" pc="268436103" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="101" parent="globals/PomodoroManager" pc="268436105" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="102" parent="globals/PomodoroManager" pc="268436134" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="103" parent="globals/PomodoroManager" pc="268436163" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="104" parent="globals/PomodoroManager" pc="268436192" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="105" parent="globals/PomodoroManager" pc="268436221" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="106" parent="globals/PomodoroManager" pc="268436250" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="107" parent="globals/PomodoroManager" pc="268436279" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="108" parent="globals/PomodoroManager" pc="268436308" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="109" parent="globals/PomodoroManager" pc="268436337" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="12" lineNum="111" parent="globals/PomodoroManager" pc="268436366" symbol="saveState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="169" parent="globals/PomodoroManager" pc="268436379" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="170" parent="globals/PomodoroManager" pc="268436381" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="171" parent="globals/PomodoroManager" pc="268436415" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="172" parent="globals/PomodoroManager" pc="268436431" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="173" parent="globals/PomodoroManager" pc="268436444" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="174" parent="globals/PomodoroManager" pc="268436463" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="176" parent="globals/PomodoroManager" pc="268436476" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="177" parent="globals/PomodoroManager" pc="268436506" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="179" parent="globals/PomodoroManager" pc="268436527" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="13" lineNum="180" parent="globals/PomodoroManager" pc="268436539" symbol="pauseSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="327" parent="globals/PomodoroManager" pc="268436559" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="328" parent="globals/PomodoroManager" pc="268436563" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="329" parent="globals/PomodoroManager" pc="268436578" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="14" lineNum="334" parent="globals/PomodoroManager" pc="268436718" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="269" parent="globals/PomodoroManager" pc="268436740" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="270" parent="globals/PomodoroManager" pc="268436742" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="271" parent="globals/PomodoroManager" pc="268436755" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="271" parent="globals/PomodoroManager" pc="268436768" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="272" parent="globals/PomodoroManager" pc="268436797" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="272" parent="globals/PomodoroManager" pc="268436810" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="273" parent="globals/PomodoroManager" pc="268436839" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="15" lineNum="273" parent="globals/PomodoroManager" pc="268436852" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="215" parent="globals/PomodoroManager" pc="268436885" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="216" parent="globals/PomodoroManager" pc="268436887" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="217" parent="globals/PomodoroManager" pc="268436899" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="16" lineNum="218" parent="globals/PomodoroManager" pc="268436933" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="137" parent="globals/PomodoroManager" pc="268436978" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="138" parent="globals/PomodoroManager" pc="268436980" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="139" parent="globals/PomodoroManager" pc="268436997" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="140" parent="globals/PomodoroManager" pc="268437010" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="141" parent="globals/PomodoroManager" pc="268437026" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="142" parent="globals/PomodoroManager" pc="268437039" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="144" parent="globals/PomodoroManager" pc="268437049" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="145" parent="globals/PomodoroManager" pc="268437087" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="150" parent="globals/PomodoroManager" pc="268437142" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="151" parent="globals/PomodoroManager" pc="268437155" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="152" parent="globals/PomodoroManager" pc="268437227" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="153" parent="globals/PomodoroManager" pc="268437299" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="154" parent="globals/PomodoroManager" pc="268437371" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="157" parent="globals/PomodoroManager" pc="268437395" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="158" parent="globals/PomodoroManager" pc="268437410" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="159" parent="globals/PomodoroManager" pc="268437427" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="161" parent="globals/PomodoroManager" pc="268437468" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="162" parent="globals/PomodoroManager" pc="268437509" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="164" parent="globals/PomodoroManager" pc="268437530" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="17" lineNum="166" parent="globals/PomodoroManager" pc="268437545" symbol="startSession"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="294" parent="globals/PomodoroManager" pc="268437562" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="296" parent="globals/PomodoroManager" pc="268437566" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="296" parent="globals/PomodoroManager" pc="268437595" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="298" parent="globals/PomodoroManager" pc="268437599" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="299" parent="globals/PomodoroManager" pc="268437609" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="300" parent="globals/PomodoroManager" pc="268437616" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="302" parent="globals/PomodoroManager" pc="268437646" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="303" parent="globals/PomodoroManager" pc="268437659" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="304" parent="globals/PomodoroManager" pc="268437672" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="307" parent="globals/PomodoroManager" pc="268437685" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="308" parent="globals/PomodoroManager" pc="268437711" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="309" parent="globals/PomodoroManager" pc="268437737" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="312" parent="globals/PomodoroManager" pc="268437763" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="313" parent="globals/PomodoroManager" pc="268437805" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="18" lineNum="314" parent="globals/PomodoroManager" pc="268437817" symbol="onSensorData"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="59" parent="globals/PomodoroManager" pc="268437840" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="60" parent="globals/PomodoroManager" pc="268437844" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="61" parent="globals/PomodoroManager" pc="268437866" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="62" parent="globals/PomodoroManager" pc="268437888" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="63" parent="globals/PomodoroManager" pc="268437910" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="65" parent="globals/PomodoroManager" pc="268437932" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="66" parent="globals/PomodoroManager" pc="268437963" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="67" parent="globals/PomodoroManager" pc="268437994" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="68" parent="globals/PomodoroManager" pc="268438025" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="70" parent="globals/PomodoroManager" pc="268438050" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="71" parent="globals/PomodoroManager" pc="268438072" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="73" parent="globals/PomodoroManager" pc="268438094" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="74" parent="globals/PomodoroManager" pc="268438116" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="76" parent="globals/PomodoroManager" pc="268438141" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="77" parent="globals/PomodoroManager" pc="268438163" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="79" parent="globals/PomodoroManager" pc="268438185" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="80" parent="globals/PomodoroManager" pc="268438197" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="82" parent="globals/PomodoroManager" pc="268438216" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="85" parent="globals/PomodoroManager" pc="268438228" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="86" parent="globals/PomodoroManager" pc="268438253" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="86" parent="globals/PomodoroManager" pc="268438270" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="87" parent="globals/PomodoroManager" pc="268438291" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="87" parent="globals/PomodoroManager" pc="268438308" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="88" parent="globals/PomodoroManager" pc="268438329" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="91" parent="globals/PomodoroManager" pc="268438341" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="92" parent="globals/PomodoroManager" pc="268438358" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="95" parent="globals/PomodoroManager" pc="268438377" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="19" lineNum="96" parent="globals/PomodoroManager" pc="268438394" symbol="reloadSettings"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="114" parent="globals/PomodoroManager" pc="268438414" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="115" parent="globals/PomodoroManager" pc="268438418" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="116" parent="globals/PomodoroManager" pc="268438440" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="117" parent="globals/PomodoroManager" pc="268438447" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="118" parent="globals/PomodoroManager" pc="268438457" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="119" parent="globals/PomodoroManager" pc="268438485" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="120" parent="globals/PomodoroManager" pc="268438513" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="121" parent="globals/PomodoroManager" pc="268438541" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="122" parent="globals/PomodoroManager" pc="268438569" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="123" parent="globals/PomodoroManager" pc="268438597" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="125" parent="globals/PomodoroManager" pc="268438625" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="126" parent="globals/PomodoroManager" pc="268438647" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="126" parent="globals/PomodoroManager" pc="268438654" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="128" parent="globals/PomodoroManager" pc="268438667" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="129" parent="globals/PomodoroManager" pc="268438689" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="129" parent="globals/PomodoroManager" pc="268438696" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="131" parent="globals/PomodoroManager" pc="268438709" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="20" lineNum="132" parent="globals/PomodoroManager" pc="268438760" symbol="loadState"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="277" parent="globals/PomodoroManager" pc="268438779" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="278" parent="globals/PomodoroManager" pc="268438783" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="279" parent="globals/PomodoroManager" pc="268438809" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="287" parent="globals/PomodoroManager" pc="268438867" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="288" parent="globals/PomodoroManager" pc="268438907" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="21" lineNum="289" parent="globals/PomodoroManager" pc="268438911" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="222" parent="globals/PomodoroManager" pc="268438960" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="223" parent="globals/PomodoroManager" pc="268438962" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="224" parent="globals/PomodoroManager" pc="268438975" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="22" lineNum="225" parent="globals/PomodoroManager" pc="268438993" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="229" parent="globals/PomodoroManager" pc="268439006" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="230" parent="globals/PomodoroManager" pc="268439008" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="231" parent="globals/PomodoroManager" pc="268439025" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="232" parent="globals/PomodoroManager" pc="268439044" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="233" parent="globals/PomodoroManager" pc="268439063" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="234" parent="globals/PomodoroManager" pc="268439080" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="235" parent="globals/PomodoroManager" pc="268439092" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="238" parent="globals/PomodoroManager" pc="268439105" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="239" parent="globals/PomodoroManager" pc="268439125" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="240" parent="globals/PomodoroManager" pc="268439135" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="241" parent="globals/PomodoroManager" pc="268439151" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="243" parent="globals/PomodoroManager" pc="268439173" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="244" parent="globals/PomodoroManager" pc="268439183" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="245" parent="globals/PomodoroManager" pc="268439199" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="248" parent="globals/PomodoroManager" pc="268439218" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="249" parent="globals/PomodoroManager" pc="268439235" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="250" parent="globals/PomodoroManager" pc="268439254" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="251" parent="globals/PomodoroManager" pc="268439271" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="252" parent="globals/PomodoroManager" pc="268439283" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="253" parent="globals/PomodoroManager" pc="268439296" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="254" parent="globals/PomodoroManager" pc="268439312" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="256" parent="globals/PomodoroManager" pc="268439328" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="257" parent="globals/PomodoroManager" pc="268439345" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="258" parent="globals/PomodoroManager" pc="268439364" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="261" parent="globals/PomodoroManager" pc="268439386" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="263" parent="globals/PomodoroManager" pc="268439398" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="23" lineNum="264" parent="globals/PomodoroManager" pc="268439409" symbol="onTimerTick"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="320" parent="globals/PomodoroManager" pc="268439429" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="321" parent="globals/PomodoroManager" pc="268439433" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="322" parent="globals/PomodoroManager" pc="268439448" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="24" lineNum="323" parent="globals/PomodoroManager" pc="268439500" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="25" lineNum="54" parent="globals/PomodoroManager" pc="268439522" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="25" lineNum="55" parent="globals/PomodoroManager" pc="268439524" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="25" lineNum="56" parent="globals/PomodoroManager" pc="268439536" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="208" parent="globals/PomodoroManager" pc="268439549" symbol="adjustTasks"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="209" parent="globals/PomodoroManager" pc="268439551" symbol="adjustTasks"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="210" parent="globals/PomodoroManager" pc="268439567" symbol="adjustTasks"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="210" parent="globals/PomodoroManager" pc="268439584" symbol="adjustTasks"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="211" parent="globals/PomodoroManager" pc="268439600" symbol="adjustTasks"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroManager.mc" id="26" lineNum="212" parent="globals/PomodoroManager" pc="268439612" symbol="adjustTasks"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="27" lineNum="58" parent="globals/PomodoroDelegate" pc="268439629" symbol="onBack"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="27" lineNum="61" parent="globals/PomodoroDelegate" pc="268439631" symbol="onBack"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="28" lineNum="21" parent="globals/PomodoroDelegate" pc="268439634" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="28" lineNum="22" parent="globals/PomodoroDelegate" pc="268439636" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="28" lineNum="23" parent="globals/PomodoroDelegate" pc="268439654" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="44" parent="globals/PomodoroDelegate" pc="268439657" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="45" parent="globals/PomodoroDelegate" pc="268439659" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="47" parent="globals/PomodoroDelegate" pc="268439682" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="50" parent="globals/PomodoroDelegate" pc="268439708" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="51" parent="globals/PomodoroDelegate" pc="268439731" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="29" lineNum="54" parent="globals/PomodoroDelegate" pc="268439752" symbol="onMenu"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="8" parent="globals/PomodoroDelegate" pc="268439755" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="9" parent="globals/PomodoroDelegate" pc="268439757" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="10" parent="globals/PomodoroDelegate" pc="268439775" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="30" lineNum="11" parent="globals/PomodoroDelegate" pc="268439785" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="31" lineNum="15" parent="globals/PomodoroDelegate" pc="268439796" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="31" lineNum="16" parent="globals/PomodoroDelegate" pc="268439798" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="31" lineNum="17" parent="globals/PomodoroDelegate" pc="268439816" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="27" parent="globals/PomodoroDelegate" pc="268439819" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="28" parent="globals/PomodoroDelegate" pc="268439823" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="30" parent="globals/PomodoroDelegate" pc="268439846" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="33" parent="globals/PomodoroDelegate" pc="268439872" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="34" parent="globals/PomodoroDelegate" pc="268439888" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="35" parent="globals/PomodoroDelegate" pc="268439910" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="37" parent="globals/PomodoroDelegate" pc="268439931" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroDelegate.mc" id="32" lineNum="40" parent="globals/PomodoroDelegate" pc="268439949" symbol="onSelect"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="120" parent="globals/PomodoroView" pc="268439952" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="121" parent="globals/PomodoroView" pc="268439954" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="122" parent="globals/PomodoroView" pc="268439976" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="124" parent="globals/PomodoroView" pc="268440019" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="125" parent="globals/PomodoroView" pc="268440041" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="128" parent="globals/PomodoroView" pc="268440102" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="33" lineNum="129" parent="globals/PomodoroView" pc="268440124" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="41" parent="globals/PomodoroView" pc="268440168" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="42" parent="globals/PomodoroView" pc="268440172" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="43" parent="globals/PomodoroView" pc="268440179" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="44" parent="globals/PomodoroView" pc="268440186" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="46" parent="globals/PomodoroView" pc="268440193" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="47" parent="globals/PomodoroView" pc="268440216" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="48" parent="globals/PomodoroView" pc="268440223" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="49" parent="globals/PomodoroView" pc="268440230" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="50" parent="globals/PomodoroView" pc="268440305" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="51" parent="globals/PomodoroView" pc="268440328" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="52" parent="globals/PomodoroView" pc="268440360" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="53" parent="globals/PomodoroView" pc="268440370" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="54" parent="globals/PomodoroView" pc="268440393" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="55" parent="globals/PomodoroView" pc="268440400" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="56" parent="globals/PomodoroView" pc="268440407" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="60" parent="globals/PomodoroView" pc="268440482" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="61" parent="globals/PomodoroView" pc="268440501" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="64" parent="globals/PomodoroView" pc="268440541" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="65" parent="globals/PomodoroView" pc="268440561" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="66" parent="globals/PomodoroView" pc="268440583" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="70" parent="globals/PomodoroView" pc="268440626" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="71" parent="globals/PomodoroView" pc="268440648" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="72" parent="globals/PomodoroView" pc="268440670" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="74" parent="globals/PomodoroView" pc="268440746" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="75" parent="globals/PomodoroView" pc="268440768" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="78" parent="globals/PomodoroView" pc="268440808" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="79" parent="globals/PomodoroView" pc="268440825" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="80" parent="globals/PomodoroView" pc="268440913" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="34" lineNum="81" parent="globals/PomodoroView" pc="268440935" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="150" parent="globals/PomodoroView" pc="268440976" symbol="nextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="151" parent="globals/PomodoroView" pc="268440978" symbol="nextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="152" parent="globals/PomodoroView" pc="268441006" symbol="nextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="35" lineNum="153" parent="globals/PomodoroView" pc="268441018" symbol="nextPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="156" parent="globals/PomodoroView" pc="268441035" symbol="prevPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="157" parent="globals/PomodoroView" pc="268441037" symbol="prevPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="158" parent="globals/PomodoroView" pc="268441071" symbol="prevPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="36" lineNum="159" parent="globals/PomodoroView" pc="268441083" symbol="prevPage"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="133" parent="globals/PomodoroView" pc="268441100" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="134" parent="globals/PomodoroView" pc="268441104" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="135" parent="globals/PomodoroView" pc="268441111" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="136" parent="globals/PomodoroView" pc="268441139" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="138" parent="globals/PomodoroView" pc="268441149" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="139" parent="globals/PomodoroView" pc="268441167" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="140" parent="globals/PomodoroView" pc="268441181" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="141" parent="globals/PomodoroView" pc="268441203" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="143" parent="globals/PomodoroView" pc="268441233" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="37" lineNum="144" parent="globals/PomodoroView" pc="268441255" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="162" parent="globals/PomodoroView" pc="268441296" symbol="&lt;globals/PomodoroView/&lt;&gt;updateManagerRefreshFlag&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="164" parent="globals/PomodoroView" pc="268441298" symbol="&lt;globals/PomodoroView/&lt;&gt;updateManagerRefreshFlag&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="165" parent="globals/PomodoroView" pc="268441332" symbol="&lt;globals/PomodoroView/&lt;&gt;updateManagerRefreshFlag&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="38" lineNum="168" parent="globals/PomodoroView" pc="268441351" symbol="&lt;globals/PomodoroView/&lt;&gt;updateManagerRefreshFlag&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="85" parent="globals/PomodoroView" pc="268441368" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="86" parent="globals/PomodoroView" pc="268441372" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="87" parent="globals/PomodoroView" pc="268441389" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="89" parent="globals/PomodoroView" pc="268441477" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="90" parent="globals/PomodoroView" pc="268441499" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="92" parent="globals/PomodoroView" pc="268441539" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="93" parent="globals/PomodoroView" pc="268441556" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="96" parent="globals/PomodoroView" pc="268441614" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="97" parent="globals/PomodoroView" pc="268441646" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="39" lineNum="98" parent="globals/PomodoroView" pc="268441665" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="102" parent="globals/PomodoroView" pc="268441706" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="103" parent="globals/PomodoroView" pc="268441710" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="104" parent="globals/PomodoroView" pc="268441732" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="107" parent="globals/PomodoroView" pc="268441775" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="108" parent="globals/PomodoroView" pc="268441797" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="111" parent="globals/PomodoroView" pc="268441858" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="112" parent="globals/PomodoroView" pc="268441880" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="113" parent="globals/PomodoroView" pc="268441902" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="115" parent="globals/PomodoroView" pc="268441978" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="40" lineNum="116" parent="globals/PomodoroView" pc="268442000" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="11" parent="globals/PomodoroView" pc="268442041" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="12" parent="globals/PomodoroView" pc="268442043" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="41" lineNum="13" parent="globals/PomodoroView" pc="268442061" symbol="initialize"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="17" parent="globals/PomodoroView" pc="268442072" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="19" parent="globals/PomodoroView" pc="268442076" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="20" parent="globals/PomodoroView" pc="268442098" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="22" parent="globals/PomodoroView" pc="268442110" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="23" parent="globals/PomodoroView" pc="268442123" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="26" parent="globals/PomodoroView" pc="268442136" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="29" parent="globals/PomodoroView" pc="268442154" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="30" parent="globals/PomodoroView" pc="268442171" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="31" parent="globals/PomodoroView" pc="268442192" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="32" parent="globals/PomodoroView" pc="268442209" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="33" parent="globals/PomodoroView" pc="268442230" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="34" parent="globals/PomodoroView" pc="268442247" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="35" parent="globals/PomodoroView" pc="268442268" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\tobia\\source\\repos\\PomodoroForerunner\\pomodoroForerunner55\\Pomodoro\\source\\PomodoroView.mc" id="42" lineNum="36" parent="globals/PomodoroView" pc="268442285" symbol="onUpdate"/>
     </pcToLineNum>
     <symbolTable>
-        <entry field="true" id="58" symbol="CyclesTitle"/>
+        <entry field="true" id="65" symbol="CyclesTitle"/>
         <entry id="8388639" module="true" symbol="Graphics"/>
         <entry id="7" object="true" symbol="PomodoroManager"/>
-        <entry id="37" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
-        <entry field="true" id="52" symbol="&lt;globals/PomodoroView/&lt;&gt;manager&gt;"/>
+        <entry id="40" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;"/>
+        <entry field="true" id="56" symbol="&lt;globals/PomodoroView/&lt;&gt;manager&gt;"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
-        <entry field="true" id="64" symbol="FitTasksLabel"/>
-        <entry id="36" method="true" symbol="stopAndSaveSession"/>
+        <entry field="true" id="71" symbol="FitTasksLabel"/>
+        <entry id="39" method="true" symbol="stopAndSaveSession"/>
         <entry id="8389849" symbol="units"/>
-        <entry id="49" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
+        <entry id="53" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;"/>
         <entry id="8388638" module="true" symbol="ActivityRecording"/>
-        <entry id="28" method="true" symbol="onTimerTick"/>
-        <entry field="true" id="57" symbol="BreakDurationTitle"/>
+        <entry id="31" method="true" symbol="onTimerTick"/>
+        <entry field="true" id="64" symbol="BreakDurationTitle"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
         <entry field="true" id="8388890" symbol="sport"/>
-        <entry id="34" method="true" symbol="startSession"/>
+        <entry id="37" method="true" symbol="startSession"/>
         <entry id="8390424" module="true" symbol="Storage"/>
-        <entry field="true" id="67" symbol="PomodoroDurationTitle"/>
+        <entry field="true" id="74" symbol="PomodoroDurationTitle"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry id="27" method="true" symbol="onSensorData"/>
-        <entry id="54" method="true" symbol="prevPage"/>
-        <entry id="41" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
-        <entry field="true" id="56" symbol="AppName"/>
+        <entry id="30" method="true" symbol="onSensorData"/>
+        <entry field="true" id="25" symbol="isAccelEnabled"/>
+        <entry field="true" id="10" symbol="accelThreshold"/>
+        <entry id="58" method="true" symbol="prevPage"/>
+        <entry id="44" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;"/>
+        <entry field="true" id="63" symbol="AppName"/>
         <entry id="4" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8389080" method="true" symbol="onMenu"/>
-        <entry field="true" id="45" symbol="&lt;globals/PomodoroDelegate/&lt;&gt;view&gt;"/>
-        <entry field="true" id="63" symbol="FitTasksChartTitle"/>
-        <entry field="true" id="11" symbol="&lt;globals/PomodoroManager/&lt;&gt;appTimer&gt;"/>
+        <entry field="true" id="49" symbol="&lt;globals/PomodoroDelegate/&lt;&gt;view&gt;"/>
+        <entry field="true" id="70" symbol="FitTasksChartTitle"/>
+        <entry field="true" id="12" symbol="&lt;globals/PomodoroManager/&lt;&gt;appTimer&gt;"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
-        <entry id="51" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
+        <entry id="55" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;"/>
         <entry id="8389081" method="true" symbol="onBack"/>
         <entry id="8390425" module="true" symbol="Properties"/>
         <entry id="2" module="true" symbol="globals/Rez"/>
-        <entry id="42" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
-        <entry field="true" id="13" symbol="completedTasks"/>
+        <entry id="45" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;triggerVibrateOnly&gt;"/>
+        <entry field="true" id="14" symbol="completedTasks"/>
+        <entry id="8388883" method="true" symbol="discard"/>
         <entry id="8389124" method="true" symbol="onUpdate"/>
-        <entry id="29" method="true" symbol="pauseSession"/>
-        <entry id="35" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
-        <entry id="32" method="true" symbol="saveState"/>
+        <entry id="32" method="true" symbol="pauseSession"/>
+        <entry id="38" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;"/>
+        <entry id="35" method="true" symbol="saveState"/>
         <entry id="8" object="true" symbol="PomodoroView"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389079" method="true" symbol="onPreviousPage"/>
         <entry id="8389275" method="true" symbol="getApp"/>
-        <entry field="true" id="46" symbol="currentPage"/>
-        <entry field="true" id="60" symbol="FitFocusUnits"/>
-        <entry field="true" id="20" symbol="&lt;globals/PomodoroManager/&lt;&gt;fitInterruptionTime&gt;"/>
-        <entry field="true" id="44" symbol="&lt;globals/PomodoroDelegate/&lt;&gt;manager&gt;"/>
+        <entry field="true" id="50" symbol="currentPage"/>
+        <entry field="true" id="67" symbol="FitFocusUnits"/>
+        <entry field="true" id="21" symbol="&lt;globals/PomodoroManager/&lt;&gt;fitInterruptionTime&gt;"/>
+        <entry field="true" id="48" symbol="&lt;globals/PomodoroDelegate/&lt;&gt;manager&gt;"/>
         <entry field="true" id="8390134" symbol="sampleRate"/>
-        <entry field="true" id="14" symbol="currentCycle"/>
-        <entry field="true" id="26" symbol="longBreakDurationSecs"/>
-        <entry id="50" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
+        <entry field="true" id="15" symbol="currentCycle"/>
+        <entry field="true" id="29" symbol="longBreakDurationSecs"/>
+        <entry id="54" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;"/>
         <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry field="true" id="46" symbol="uiNeeds1HzUpdate"/>
         <entry id="8390648" symbol="accelerometer"/>
         <entry id="8388882" method="true" symbol="save"/>
         <entry id="8388877" method="true" symbol="createSession"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="19" symbol="&lt;globals/PomodoroManager/&lt;&gt;fitFocusTime&gt;"/>
-        <entry field="true" id="62" symbol="FitIntUnits"/>
-        <entry field="true" id="66" symbol="LongBreakDurationTitle"/>
-        <entry field="true" id="12" symbol="breakDurationSecs"/>
+        <entry field="true" id="20" symbol="&lt;globals/PomodoroManager/&lt;&gt;fitFocusTime&gt;"/>
+        <entry field="true" id="69" symbol="FitIntUnits"/>
+        <entry field="true" id="73" symbol="LongBreakDurationTitle"/>
+        <entry field="true" id="13" symbol="breakDurationSecs"/>
         <entry id="8388699" method="true" symbol="stop"/>
+        <entry id="59" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;updateManagerRefreshFlag&gt;"/>
         <entry field="true" id="9" symbol="pomodoroManager"/>
-        <entry field="true" id="16" symbol="currentState"/>
+        <entry field="true" id="17" symbol="currentState"/>
         <entry field="true" id="8390438" symbol="enabled"/>
         <entry id="6" object="true" symbol="PomodoroDelegate"/>
         <entry id="8388644" module="true" symbol="System"/>
-        <entry field="true" id="30" symbol="previousState"/>
+        <entry field="true" id="33" symbol="previousState"/>
         <entry id="8389619" method="true" symbol="onSelect"/>
-        <entry field="true" id="17" symbol="cyclesPerSet"/>
+        <entry field="true" id="18" symbol="cyclesPerSet"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry id="10" method="true" symbol="adjustTasks"/>
-        <entry field="true" id="22" symbol="focusDurationSecs"/>
-        <entry field="true" id="24" symbol="isLongBreak"/>
-        <entry field="true" id="59" symbol="FitFocusLabel"/>
+        <entry field="true" id="62" symbol="AccelThresholdTitle"/>
+        <entry id="11" method="true" symbol="adjustTasks"/>
+        <entry field="true" id="27" symbol="isRecordingEnabled"/>
+        <entry field="true" id="23" symbol="focusDurationSecs"/>
+        <entry field="true" id="26" symbol="isLongBreak"/>
+        <entry field="true" id="66" symbol="FitFocusLabel"/>
         <entry id="8388640" module="true" symbol="Lang"/>
-        <entry id="18" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
-        <entry field="true" id="33" symbol="&lt;globals/PomodoroManager/&lt;&gt;session&gt;"/>
-        <entry field="true" id="55" symbol="LauncherIcon"/>
+        <entry id="19" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;"/>
+        <entry field="true" id="61" symbol="AccelEnabledTitle"/>
+        <entry field="true" id="36" symbol="&lt;globals/PomodoroManager/&lt;&gt;session&gt;"/>
+        <entry field="true" id="60" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8388643" module="true" symbol="Sensor"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry id="47" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
+        <entry id="51" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="15" symbol="currentInterruptionTimer"/>
+        <entry field="true" id="16" symbol="currentInterruptionTimer"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry id="8389780" module="true" symbol="FitContributor"/>
-        <entry id="48" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
+        <entry id="52" method="true" symbol="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;"/>
         <entry field="true" id="8388892" symbol="name"/>
         <entry id="8389808" symbol="period"/>
         <entry id="8388641" module="true" symbol="Math"/>
-        <entry field="true" id="61" symbol="FitIntLabel"/>
-        <entry field="true" id="21" symbol="&lt;globals/PomodoroManager/&lt;&gt;fitTasks&gt;"/>
-        <entry field="true" id="65" symbol="FitTasksUnits"/>
-        <entry id="43" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
+        <entry field="true" id="68" symbol="FitIntLabel"/>
+        <entry field="true" id="22" symbol="&lt;globals/PomodoroManager/&lt;&gt;fitTasks&gt;"/>
+        <entry field="true" id="72" symbol="FitTasksUnits"/>
+        <entry id="47" method="true" symbol="&lt;globals/PomodoroManager/&lt;&gt;updateFitFields&gt;"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
-        <entry id="25" method="true" symbol="loadState"/>
+        <entry field="true" id="75" symbol="RecordActivityTitle"/>
+        <entry id="28" method="true" symbol="loadState"/>
         <entry id="8389847" symbol="mesgType"/>
         <entry id="5" object="true" symbol="PomodoroApp"/>
-        <entry id="31" method="true" symbol="reloadSettings"/>
+        <entry id="34" method="true" symbol="reloadSettings"/>
         <entry id="8390074" method="true" symbol="registerSensorDataListener"/>
-        <entry field="true" id="23" symbol="interruptionCount"/>
+        <entry field="true" id="24" symbol="interruptionCount"/>
         <entry id="8388646" module="true" object="true" symbol="Timer"/>
         <entry id="8388636" module="true" symbol="Attention"/>
         <entry id="8388698" method="true" symbol="start"/>
-        <entry id="53" method="true" symbol="nextPage"/>
-        <entry field="true" id="40" symbol="totalInterruptionTime"/>
+        <entry id="57" method="true" symbol="nextPage"/>
+        <entry field="true" id="43" symbol="totalInterruptionTime"/>
         <entry id="8389078" method="true" symbol="onNextPage"/>
         <entry id="8388635" module="true" symbol="Application"/>
-        <entry field="true" id="39" symbol="totalFocusTime"/>
-        <entry field="true" id="38" symbol="timeRemaining"/>
+        <entry field="true" id="42" symbol="totalFocusTime"/>
+        <entry field="true" id="41" symbol="timeRemaining"/>
     </symbolTable>
     <localVars>
         <entry arg="true" endPc="268435617" name="state" stackId="1" startPc="268435567"/>
@@ -430,75 +463,82 @@
         <entry endPc="268435767" name="delegate" stackId="2" startPc="268435675"/>
         <entry arg="true" endPc="268435825" name="state" stackId="1" startPc="268435789"/>
         <entry endPc="268436735" name="vibeData" stackId="1" startPc="268436578"/>
-        <entry arg="true" endPc="268437796" name="sensorData" stackId="1" startPc="268437540"/>
-        <entry endPc="268437795" name="accelData" stackId="2" startPc="268437544"/>
-        <entry endPc="268437792" name="i" stackId="3" startPc="268437612"/>
-        <entry endPc="268437779" name="rawX" stackId="4" startPc="268437612"/>
-        <entry endPc="268437779" name="rawY" stackId="5" startPc="268437612"/>
-        <entry endPc="268437779" name="rawZ" stackId="6" startPc="268437612"/>
-        <entry endPc="268437779" name="x" stackId="7" startPc="268437612"/>
-        <entry endPc="268437779" name="y" stackId="8" startPc="268437612"/>
-        <entry endPc="268437779" name="z" stackId="9" startPc="268437612"/>
-        <entry endPc="268438065" name="focusMin" stackId="1" startPc="268437801"/>
-        <entry endPc="268438065" name="breakMin" stackId="2" startPc="268437801"/>
-        <entry endPc="268438065" name="longBreakMin" stackId="3" startPc="268437801"/>
-        <entry endPc="268438065" name="cyclesVal" stackId="4" startPc="268437801"/>
-        <entry endPc="268438430" name="savedState" stackId="1" startPc="268438071"/>
-        <entry endPc="268438427" name="savedCycle" stackId="2" startPc="268438100"/>
-        <entry endPc="268438427" name="savedLongBrk" stackId="3" startPc="268438100"/>
-        <entry endPc="268438542" name="options" stackId="1" startPc="268438451"/>
-        <entry endPc="268439090" name="vibeData" stackId="1" startPc="268439021"/>
-        <entry arg="true" endPc="268439201" name="delta" stackId="1" startPc="268439122"/>
-        <entry arg="true" endPc="268439368" name="pomodoroManager" stackId="1" startPc="268439328"/>
-        <entry arg="true" endPc="268439368" name="pomodoroView" stackId="2" startPc="268439328"/>
-        <entry endPc="268439521" name="state" stackId="1" startPc="268439445"/>
-        <entry arg="true" endPc="268439740" name="dc" stackId="1" startPc="268439525"/>
-        <entry arg="true" endPc="268439740" name="width" stackId="2" startPc="268439525"/>
-        <entry arg="true" endPc="268439740" name="height" stackId="3" startPc="268439525"/>
-        <entry arg="true" endPc="268439936" name="dc" stackId="1" startPc="268439741"/>
-        <entry arg="true" endPc="268439936" name="width" stackId="2" startPc="268439741"/>
-        <entry arg="true" endPc="268439936" name="height" stackId="3" startPc="268439741"/>
-        <entry endPc="268439935" name="dotSpacing" stackId="4" startPc="268439745"/>
-        <entry endPc="268439935" name="startX" stackId="5" startPc="268439745"/>
-        <entry endPc="268439935" name="yPos" stackId="6" startPc="268439745"/>
-        <entry endPc="268439935" name="i" stackId="7" startPc="268439808"/>
-        <entry arg="true" endPc="268440744" name="dc" stackId="1" startPc="268439937"/>
-        <entry arg="true" endPc="268440744" name="width" stackId="2" startPc="268439937"/>
-        <entry arg="true" endPc="268440744" name="height" stackId="3" startPc="268439937"/>
-        <entry endPc="268440743" name="stateStr" stackId="4" startPc="268439941"/>
-        <entry endPc="268440743" name="stateColor" stackId="5" startPc="268439941"/>
-        <entry endPc="268440743" name="blockStr" stackId="6" startPc="268439941"/>
-        <entry endPc="268440743" name="mins" stackId="7" startPc="268439941"/>
-        <entry endPc="268440743" name="secs" stackId="8" startPc="268439941"/>
-        <entry endPc="268440743" name="timeStr" stackId="9" startPc="268439941"/>
-        <entry endPc="268440743" name="clockTime" stackId="10" startPc="268439941"/>
-        <entry endPc="268440743" name="clockStr" stackId="11" startPc="268439941"/>
-        <entry arg="true" endPc="268441082" name="dc" stackId="1" startPc="268440745"/>
-        <entry arg="true" endPc="268441082" name="width" stackId="2" startPc="268440745"/>
-        <entry arg="true" endPc="268441082" name="height" stackId="3" startPc="268440745"/>
-        <entry endPc="268441081" name="clockTime" stackId="4" startPc="268440749"/>
-        <entry endPc="268441081" name="clockStr" stackId="5" startPc="268440749"/>
-        <entry endPc="268441081" name="stats" stackId="6" startPc="268440749"/>
-        <entry endPc="268441081" name="batStr" stackId="7" startPc="268440749"/>
-        <entry endPc="268441081" name="batColor" stackId="8" startPc="268440749"/>
-        <entry arg="true" endPc="268441417" name="dc" stackId="1" startPc="268441083"/>
-        <entry arg="true" endPc="268441417" name="width" stackId="2" startPc="268441083"/>
-        <entry arg="true" endPc="268441417" name="height" stackId="3" startPc="268441083"/>
-        <entry endPc="268441416" name="intMins" stackId="4" startPc="268441087"/>
-        <entry endPc="268441416" name="intSecs" stackId="5" startPc="268441087"/>
-        <entry endPc="268441416" name="totStr" stackId="6" startPc="268441087"/>
-        <entry arg="true" endPc="268441548" name="pomodoroManager" stackId="1" startPc="268441518"/>
-        <entry arg="true" endPc="268441783" name="dc" stackId="1" startPc="268441549"/>
-        <entry endPc="268441782" name="width" stackId="2" startPc="268441553"/>
-        <entry endPc="268441782" name="height" stackId="3" startPc="268441553"/>
+        <entry arg="true" endPc="268437839" name="sensorData" stackId="1" startPc="268437562"/>
+        <entry endPc="268437838" name="accelData" stackId="2" startPc="268437566"/>
+        <entry endPc="268437835" name="i" stackId="3" startPc="268437646"/>
+        <entry endPc="268437822" name="rawX" stackId="4" startPc="268437646"/>
+        <entry endPc="268437822" name="rawY" stackId="5" startPc="268437646"/>
+        <entry endPc="268437822" name="rawZ" stackId="6" startPc="268437646"/>
+        <entry endPc="268437822" name="x" stackId="7" startPc="268437646"/>
+        <entry endPc="268437822" name="y" stackId="8" startPc="268437646"/>
+        <entry endPc="268437822" name="z" stackId="9" startPc="268437646"/>
+        <entry endPc="268438412" name="focusMin" stackId="1" startPc="268437844"/>
+        <entry endPc="268438412" name="breakMin" stackId="2" startPc="268437844"/>
+        <entry endPc="268438412" name="longBreakMin" stackId="3" startPc="268437844"/>
+        <entry endPc="268438412" name="cyclesVal" stackId="4" startPc="268437844"/>
+        <entry endPc="268438412" name="accelOn" stackId="5" startPc="268437844"/>
+        <entry endPc="268438412" name="thresholdVal" stackId="6" startPc="268437844"/>
+        <entry endPc="268438412" name="recordVal" stackId="7" startPc="268437844"/>
+        <entry endPc="268438777" name="savedState" stackId="1" startPc="268438418"/>
+        <entry endPc="268438774" name="savedCycle" stackId="2" startPc="268438447"/>
+        <entry endPc="268438774" name="savedLongBrk" stackId="3" startPc="268438447"/>
+        <entry endPc="268438955" name="options" stackId="1" startPc="268438809"/>
+        <entry endPc="268438950" name="e" stackId="2" startPc="268438907"/>
+        <entry endPc="268439517" name="vibeData" stackId="1" startPc="268439448"/>
+        <entry arg="true" endPc="268439628" name="delta" stackId="1" startPc="268439549"/>
+        <entry arg="true" endPc="268439795" name="pomodoroManager" stackId="1" startPc="268439755"/>
+        <entry arg="true" endPc="268439795" name="pomodoroView" stackId="2" startPc="268439755"/>
+        <entry endPc="268439948" name="state" stackId="1" startPc="268439872"/>
+        <entry arg="true" endPc="268440167" name="dc" stackId="1" startPc="268439952"/>
+        <entry arg="true" endPc="268440167" name="width" stackId="2" startPc="268439952"/>
+        <entry arg="true" endPc="268440167" name="height" stackId="3" startPc="268439952"/>
+        <entry arg="true" endPc="268440975" name="dc" stackId="1" startPc="268440168"/>
+        <entry arg="true" endPc="268440975" name="width" stackId="2" startPc="268440168"/>
+        <entry arg="true" endPc="268440975" name="height" stackId="3" startPc="268440168"/>
+        <entry endPc="268440974" name="stateStr" stackId="4" startPc="268440172"/>
+        <entry endPc="268440974" name="stateColor" stackId="5" startPc="268440172"/>
+        <entry endPc="268440974" name="blockStr" stackId="6" startPc="268440172"/>
+        <entry endPc="268440974" name="mins" stackId="7" startPc="268440172"/>
+        <entry endPc="268440974" name="secs" stackId="8" startPc="268440172"/>
+        <entry endPc="268440974" name="timeStr" stackId="9" startPc="268440172"/>
+        <entry endPc="268440974" name="clockTime" stackId="10" startPc="268440172"/>
+        <entry endPc="268440974" name="clockStr" stackId="11" startPc="268440172"/>
+        <entry arg="true" endPc="268441295" name="dc" stackId="1" startPc="268441100"/>
+        <entry arg="true" endPc="268441295" name="width" stackId="2" startPc="268441100"/>
+        <entry arg="true" endPc="268441295" name="height" stackId="3" startPc="268441100"/>
+        <entry endPc="268441294" name="dotSpacing" stackId="4" startPc="268441104"/>
+        <entry endPc="268441294" name="startX" stackId="5" startPc="268441104"/>
+        <entry endPc="268441294" name="yPos" stackId="6" startPc="268441104"/>
+        <entry endPc="268441294" name="i" stackId="7" startPc="268441167"/>
+        <entry arg="true" endPc="268441705" name="dc" stackId="1" startPc="268441368"/>
+        <entry arg="true" endPc="268441705" name="width" stackId="2" startPc="268441368"/>
+        <entry arg="true" endPc="268441705" name="height" stackId="3" startPc="268441368"/>
+        <entry endPc="268441704" name="clockTime" stackId="4" startPc="268441372"/>
+        <entry endPc="268441704" name="clockStr" stackId="5" startPc="268441372"/>
+        <entry endPc="268441704" name="stats" stackId="6" startPc="268441372"/>
+        <entry endPc="268441704" name="batStr" stackId="7" startPc="268441372"/>
+        <entry endPc="268441704" name="batColor" stackId="8" startPc="268441372"/>
+        <entry arg="true" endPc="268442040" name="dc" stackId="1" startPc="268441706"/>
+        <entry arg="true" endPc="268442040" name="width" stackId="2" startPc="268441706"/>
+        <entry arg="true" endPc="268442040" name="height" stackId="3" startPc="268441706"/>
+        <entry endPc="268442039" name="intMins" stackId="4" startPc="268441710"/>
+        <entry endPc="268442039" name="intSecs" stackId="5" startPc="268441710"/>
+        <entry endPc="268442039" name="totStr" stackId="6" startPc="268441710"/>
+        <entry arg="true" endPc="268442071" name="pomodoroManager" stackId="1" startPc="268442041"/>
+        <entry arg="true" endPc="268442306" name="dc" stackId="1" startPc="268442072"/>
+        <entry endPc="268442305" name="width" stackId="2" startPc="268442076"/>
+        <entry endPc="268442305" name="height" stackId="3" startPc="268442076"/>
     </localVars>
     <deviceInfo deviceVersion="45fe3cbb0de8ea0a70e12628d2697915f1272301" partNumber="006-B3869-00"/>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccelThresholdTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FitFocusUnits"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="PomodoroDurationTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AccelEnabledTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FitTasksChartTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="RecordActivityTitle"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FitTasksUnits"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="FitIntLabel"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="CyclesTitle"/>
@@ -512,11 +552,11 @@
         <dataEntry label="globals" offset="55" parentId="" symbolId="globals" type="module"/>
         <dataEntry label="globals/PomodoroApp" offset="142" parentId="globals" symbolId="PomodoroApp" type="class"/>
         <dataEntry label="globals/PomodoroManager" offset="229" parentId="globals" symbolId="PomodoroManager" type="class"/>
-        <dataEntry label="globals/Rez" offset="548" parentId="globals" symbolId="Rez" type="module"/>
-        <dataEntry label="globals/PomodoroDelegate" offset="595" parentId="globals" symbolId="PomodoroDelegate" type="class"/>
-        <dataEntry label="globals/PomodoroView" offset="698" parentId="globals" symbolId="PomodoroView" type="class"/>
-        <dataEntry label="globals/Rez/Drawables" offset="825" parentId="Rez" symbolId="Drawables" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="864" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez" offset="580" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/PomodoroDelegate" offset="627" parentId="globals" symbolId="PomodoroDelegate" type="class"/>
+        <dataEntry label="globals/PomodoroView" offset="730" parentId="globals" symbolId="PomodoroView" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="865" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="904" parentId="Rez" symbolId="Strings" type="module"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" endPc="268435478" name="&lt;init&gt;" parent="PomodoroApp" startPc="268435460">
@@ -572,35 +612,35 @@
         <functionEntry accessMode="private" endPc="268436977" name="&lt;globals/PomodoroManager/&lt;&gt;startTimer&gt;" parent="PomodoroManager" startPc="268436885">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437539" name="startSession" parent="PomodoroManager" startPc="268436978">
+        <functionEntry accessMode="public" endPc="268437561" name="startSession" parent="PomodoroManager" startPc="268436978">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268437796" name="onSensorData" parent="PomodoroManager" startPc="268437540">
+        <functionEntry accessMode="public" endPc="268437839" name="onSensorData" parent="PomodoroManager" startPc="268437562">
             <param id="sensorData"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438066" name="reloadSettings" parent="PomodoroManager" startPc="268437797">
+        <functionEntry accessMode="public" endPc="268438413" name="reloadSettings" parent="PomodoroManager" startPc="268437840">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438431" name="loadState" parent="PomodoroManager" startPc="268438067">
+        <functionEntry accessMode="public" endPc="268438778" name="loadState" parent="PomodoroManager" startPc="268438414">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268438546" name="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;" parent="PomodoroManager" startPc="268438432">
+        <functionEntry accessMode="private" endPc="268438959" name="&lt;globals/PomodoroManager/&lt;&gt;enableAccelerometer&gt;" parent="PomodoroManager" startPc="268438779">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268438592" name="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;" parent="PomodoroManager" startPc="268438547">
+        <functionEntry accessMode="private" endPc="268439005" name="&lt;globals/PomodoroManager/&lt;&gt;stopTimer&gt;" parent="PomodoroManager" startPc="268438960">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439001" name="onTimerTick" parent="PomodoroManager" startPc="268438593">
+        <functionEntry accessMode="public" endPc="268439428" name="onTimerTick" parent="PomodoroManager" startPc="268439006">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268439094" name="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;" parent="PomodoroManager" startPc="268439002">
+        <functionEntry accessMode="private" endPc="268439521" name="&lt;globals/PomodoroManager/&lt;&gt;triggerAlert&gt;" parent="PomodoroManager" startPc="268439429">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439121" name="initialize" parent="PomodoroManager" startPc="268439095">
+        <functionEntry accessMode="public" endPc="268439548" name="initialize" parent="PomodoroManager" startPc="268439522">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439201" name="adjustTasks" parent="PomodoroManager" startPc="268439122">
+        <functionEntry accessMode="public" endPc="268439628" name="adjustTasks" parent="PomodoroManager" startPc="268439549">
             <param id="delta"/>
             <documentation/>
         </functionEntry>
@@ -610,67 +650,70 @@
         <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439206" name="onBack" parent="PomodoroDelegate" startPc="268439202">
+        <functionEntry accessMode="public" endPc="268439633" name="onBack" parent="PomodoroDelegate" startPc="268439629">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439229" name="onPreviousPage" parent="PomodoroDelegate" startPc="268439207">
+        <functionEntry accessMode="public" endPc="268439656" name="onPreviousPage" parent="PomodoroDelegate" startPc="268439634">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439327" name="onMenu" parent="PomodoroDelegate" startPc="268439230">
+        <functionEntry accessMode="public" endPc="268439754" name="onMenu" parent="PomodoroDelegate" startPc="268439657">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439368" name="initialize" parent="PomodoroDelegate" startPc="268439328">
+        <functionEntry accessMode="public" endPc="268439795" name="initialize" parent="PomodoroDelegate" startPc="268439755">
             <param id="pomodoroManager"/>
             <param id="pomodoroView"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439391" name="onNextPage" parent="PomodoroDelegate" startPc="268439369">
+        <functionEntry accessMode="public" endPc="268439818" name="onNextPage" parent="PomodoroDelegate" startPc="268439796">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439524" name="onSelect" parent="PomodoroDelegate" startPc="268439392">
+        <functionEntry accessMode="public" endPc="268439951" name="onSelect" parent="PomodoroDelegate" startPc="268439819">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268439740" name="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;" parent="PomodoroView" startPc="268439525">
+        <functionEntry accessMode="private" endPc="268440167" name="&lt;globals/PomodoroView/&lt;&gt;drawTasksPage&gt;" parent="PomodoroView" startPc="268439952">
             <param id="dc"/>
             <param id="width"/>
             <param id="height"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268439936" name="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;" parent="PomodoroView" startPc="268439741">
+        <functionEntry accessMode="private" endPc="268440975" name="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;" parent="PomodoroView" startPc="268440168">
             <param id="dc"/>
             <param id="width"/>
             <param id="height"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268440744" name="&lt;globals/PomodoroView/&lt;&gt;drawTimerPage&gt;" parent="PomodoroView" startPc="268439937">
+        <functionEntry accessMode="public" endPc="268441034" name="nextPage" parent="PomodoroView" startPc="268440976">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268441099" name="prevPage" parent="PomodoroView" startPc="268441035">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441295" name="&lt;globals/PomodoroView/&lt;&gt;drawPageIndicator&gt;" parent="PomodoroView" startPc="268441100">
             <param id="dc"/>
             <param id="width"/>
             <param id="height"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268441082" name="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;" parent="PomodoroView" startPc="268440745">
+        <functionEntry accessMode="private" endPc="268441367" name="&lt;globals/PomodoroView/&lt;&gt;updateManagerRefreshFlag&gt;" parent="PomodoroView" startPc="268441296">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268441705" name="&lt;globals/PomodoroView/&lt;&gt;drawClockPage&gt;" parent="PomodoroView" startPc="268441368">
             <param id="dc"/>
             <param id="width"/>
             <param id="height"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268441417" name="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;" parent="PomodoroView" startPc="268441083">
+        <functionEntry accessMode="private" endPc="268442040" name="&lt;globals/PomodoroView/&lt;&gt;drawInterruptionPage&gt;" parent="PomodoroView" startPc="268441706">
             <param id="dc"/>
             <param id="width"/>
             <param id="height"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441464" name="nextPage" parent="PomodoroView" startPc="268441418">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268441517" name="prevPage" parent="PomodoroView" startPc="268441465">
-            <documentation/>
-        </functionEntry>
-        <functionEntry accessMode="public" endPc="268441548" name="initialize" parent="PomodoroView" startPc="268441518">
+        <functionEntry accessMode="public" endPc="268442071" name="initialize" parent="PomodoroView" startPc="268442041">
             <param id="pomodoroManager"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268441783" name="onUpdate" parent="PomodoroView" startPc="268441549">
+        <functionEntry accessMode="public" endPc="268442306" name="onUpdate" parent="PomodoroView" startPc="268442072">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
