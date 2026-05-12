@@ -1,0 +1,18 @@
+<strings>
+    <string id="AppName">Pomodoro</string>
+    <string id="PomodoroDurationTitle">Focus (min)</string>
+    <string id="BreakDurationTitle">Break (min)</string>
+    <string id="LongBreakDurationTitle">Long Break (min)</string>
+    <string id="CyclesTitle">Blocks per cycle</string>
+    
+    <string id="FitFocusLabel">Focus</string>
+    <string id="FitFocusUnits">s</string>
+    <string id="FitIntLabel">Interruptions</string>
+    <string id="FitIntUnits">s</string>
+    <string id="FitTasksChartTitle">Tasks Completed</string>
+    <string id="FitTasksLabel">Tasks</string>
+    <string id="FitTasksUnits">tasks</string>
+
+    <string id="AccelEnabledTitle">Movement Detection</string>
+    <string id="AccelThresholdTitle">Sensitivity (mG)</string>
+</strings>

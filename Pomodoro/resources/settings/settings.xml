@@ -1,0 +1,20 @@
+<settings>
+    <setting propertyKey="@Properties.pomodoroDuration" title="@Strings.PomodoroDurationTitle">
+        <settingConfig type="numeric" min="1" max="90"/>
+    </setting>
+    <setting propertyKey="@Properties.breakDuration" title="@Strings.BreakDurationTitle">
+        <settingConfig type="numeric" min="1" max="30"/>
+    </setting>
+    <setting propertyKey="@Properties.longBreakDuration" title="@Strings.LongBreakDurationTitle">
+        <settingConfig type="numeric" min="1" max="60"/>
+    </setting>
+    <setting propertyKey="@Properties.cyclesPerSet" title="@Strings.CyclesTitle">
+        <settingConfig type="numeric" min="1" max="10"/>
+    </setting>
+    <setting propertyKey="@Properties.accelEnabled" title="@Strings.AccelEnabledTitle">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.accelThreshold" title="@Strings.AccelThresholdTitle">
+        <settingConfig type="numeric" min="1000" max="5000"/>
+    </setting>
+</settings>

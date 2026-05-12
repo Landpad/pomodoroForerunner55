@@ -1,0 +1,8 @@
+<properties>
+    <property id="pomodoroDuration" type="number">25</property>
+    <property id="breakDuration" type="number">5</property>
+    <property id="longBreakDuration" type="number">15</property>
+    <property id="cyclesPerSet" type="number">4</property>
+    <property id="accelEnabled" type="boolean">true</property>
+    <property id="accelThreshold" type="number">2500</property>
+</properties>

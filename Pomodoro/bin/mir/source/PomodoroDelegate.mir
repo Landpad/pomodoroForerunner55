@@ -1,0 +1,211 @@
+[ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 1; @symbol_importdef<0> = [Toybox,1,7,13]; @symbol_importdef<1> = [WatchUi,1,14,21]; ]
+import Toybox.WatchUi;
+[ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 2; @symbol_importdef<0> = [Toybox,2,7,13]; @symbol_importdef<1> = [Lang,2,14,18]; ]
+import Toybox.Lang;
+[ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 4; @symbol_classdef = [PomodoroDelegate,4,6,22]; @symbol_extends<0> = [WatchUi,4,31,38]; @symbol_extends<1> = [BehaviorDelegate,4,39,55]; ]
+class PomodoroDelegate extends WatchUi.BehaviorDelegate {
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 5; @position = 16; @symbol_vardef = [manager,5,16,23]; @symbol_type<0> = [PomodoroManager,5,27,42]; ]
+    private
+    var manager as PomodoroManager;
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 6; @position = 16; @symbol_vardef = [view,6,16,20]; @symbol_type<0> = [PomodoroView,6,24,36]; ]
+    private
+    var view as PomodoroView;
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 8; @symbol_functiondef = [initialize,8,13,23]; @symbol_param<0> = [pomodoroManager,8,24,39]; @symbol_param<0>_type<0> = [PomodoroManager,8,43,58]; @symbol_param<1> = [pomodoroView,8,60,72]; @symbol_param<1>_type<0> = [PomodoroView,8,76,88]; ]
+    function initialize(pomodoroManager as PomodoroManager, pomodoroView as PomodoroView) as Void {
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_8_90_12_4_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 9 8 ]
+        symbol [ BehaviorDelegate %tmp.2 9 8 24 ];
+        %tmp.2 = getv ? :BehaviorDelegate;
+        symbol [ initialize %tmp.3 9 25 35 ];
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 10 8 ]
+        %tmp.4 = lgetv %pomodoroManager;
+        symbol [ pomodoroManager %tmp.4 10 18 33 ];
+        symbol [ manager ? 10 8 15 ];
+        putv self :manager %tmp.4;
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 11 8 ]
+        %tmp.5 = lgetv %pomodoroView;
+        symbol [ pomodoroView %tmp.5 11 15 27 ];
+        symbol [ view ? 11 8 12 ];
+        putv self :view %tmp.5;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_8_90_12_4_stop:
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 15; @symbol_functiondef = [onNextPage,15,13,23]; @symbol_return<0> = [Boolean,15,29,36]; ]
+    function onNextPage() as Boolean {
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_15_37_18_4_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 16 8 ]
+        symbol [ view %tmp.2 16 8 12 ];
+        %tmp.2 = getv ? :view;
+        symbol [ nextPage %tmp.3 16 13 21 ];
+        %tmp.3 = getv function %tmp.2 :nextPage;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 17 8 ]
+        %tmp.4 = true;
+        ret %tmp.4;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_15_37_18_4_stop:
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 21; @symbol_functiondef = [onPreviousPage,21,13,27]; @symbol_return<0> = [Boolean,21,33,40]; ]
+    function onPreviousPage() as Boolean {
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_21_41_24_4_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 22 8 ]
+        symbol [ view %tmp.2 22 8 12 ];
+        %tmp.2 = getv ? :view;
+        symbol [ prevPage %tmp.3 22 13 21 ];
+        %tmp.3 = getv function %tmp.2 :prevPage;
+        invoke %tmp.2 %tmp.3();
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 23 8 ]
+        %tmp.4 = true;
+        ret %tmp.4;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_21_41_24_4_stop:
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 27; @symbol_functiondef = [onSelect,27,13,21]; @symbol_return<0> = [Boolean,27,27,34]; ]
+    function onSelect() as Boolean {
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_27_35_41_4_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 28 8 ]
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_8_39_8_if_stmt:
+        symbol [ view %tmp.2 28 12 16 ];
+        %tmp.2 = getv ? :view;
+        symbol [ currentPage %tmp.3 28 17 28 ];
+        %tmp.3 = getv %tmp.2 :currentPage;
+        %tmp.4 = 3;
+        %tmp.5 = eq %tmp.3 %tmp.4;
+        bf %tmp.5 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_8_39_8_if_else_false;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_8_39_8_if_true:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_35_31_8_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 30 12 ]
+        symbol [ manager %tmp.7 30 12 19 ];
+        %tmp.7 = getv ? :manager;
+        symbol [ adjustTasks %tmp.8 30 20 31 ];
+        %tmp.8 = getv function %tmp.7 :adjustTasks;
+        %tmp.9 = 1;
+        invoke %tmp.7 %tmp.8(%tmp.9);
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_35_31_8_stop:
+        goto @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_8_39_8_if_end;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_8_39_8_if_else_false:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_31_15_39_8_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 33 12 ]
+        [ "C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_31_15_39_8_start" "C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_31_15_39_8_stop" ]
+        %state.1 = local;
+        symbol [ state %state.1 33 16 21 ];
+        symbol [ manager %tmp.11 33 24 31 ];
+        %tmp.11 = getv ? :manager;
+        symbol [ currentState %tmp.12 33 32 44 ];
+        %tmp.12 = getv %tmp.11 :currentState;
+        lputv %state.1 %tmp.12;
+        symbol [ state %state.1 33 16 21 ];
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 34 12 ]
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_stmt:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_16_34_39_begin:
+        %tmp.13 = lgetv %state.1;
+        symbol [ state %tmp.13 34 16 21 ];
+        %tmp.14 = 0;
+        %tmp.15 = eq %tmp.13 %tmp.14;
+        bt %tmp.15 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_true;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_30_34_39_false:
+        %tmp.16 = lgetv %state.1;
+        symbol [ state %tmp.16 34 30 35 ];
+        %tmp.17 = 3;
+        %tmp.18 = eq %tmp.16 %tmp.17;
+        push %tmp.18;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_30_34_39_end:
+        %tmp.19 = phi [%tmp.15 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_16_34_39_begin] [%tmp.18 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_30_34_39_false] [%tmp.19 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_30_34_39_end];
+        bf %tmp.19 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_else_false;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_true:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_42_36_12_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 35 16 ]
+        symbol [ manager %tmp.21 35 16 23 ];
+        %tmp.21 = getv ? :manager;
+        symbol [ startSession %tmp.22 35 24 36 ];
+        %tmp.22 = getv function %tmp.21 :startSession;
+        invoke %tmp.21 %tmp.22();
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_42_36_12_stop:
+        goto @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_end;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_else_false:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_36_19_38_12_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 37 16 ]
+        symbol [ manager %tmp.24 37 16 23 ];
+        %tmp.24 = getv ? :manager;
+        symbol [ pauseSession %tmp.25 37 24 36 ];
+        %tmp.25 = getv function %tmp.24 :pauseSession;
+        invoke %tmp.24 %tmp.25();
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_36_19_38_12_stop:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_34_12_38_12_if_end:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_31_15_39_8_stop:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_28_8_39_8_if_end:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 40 8 ]
+        %tmp.26 = true;
+        ret %tmp.26;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_27_35_41_4_stop:
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 44; @symbol_functiondef = [onMenu,44,13,19]; @symbol_return<0> = [Boolean,44,25,32]; ]
+    function onMenu() as Boolean {
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_44_33_55_4_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 45 8 ]
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_8_53_8_if_stmt:
+        symbol [ view %tmp.2 45 12 16 ];
+        %tmp.2 = getv ? :view;
+        symbol [ currentPage %tmp.3 45 17 28 ];
+        %tmp.3 = getv %tmp.2 :currentPage;
+        %tmp.4 = 3;
+        %tmp.5 = eq %tmp.3 %tmp.4;
+        bf %tmp.5 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_8_53_8_if_else_false;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_8_53_8_if_true:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_35_48_8_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 47 12 ]
+        symbol [ manager %tmp.7 47 12 19 ];
+        %tmp.7 = getv ? :manager;
+        symbol [ adjustTasks %tmp.8 47 20 31 ];
+        %tmp.8 = getv function %tmp.7 :adjustTasks;
+        %tmp.9 = -1;
+        invoke %tmp.7 %tmp.8(%tmp.9);
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_35_48_8_stop:
+        goto @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_8_53_8_if_end;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_8_53_8_if_else_false:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_48_15_53_8_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 50 12 ]
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_12_52_12_if_stmt:
+        symbol [ manager %tmp.11 50 16 23 ];
+        %tmp.11 = getv ? :manager;
+        symbol [ currentState %tmp.12 50 24 36 ];
+        %tmp.12 = getv %tmp.11 :currentState;
+        %tmp.13 = 0;
+        %tmp.14 = ne %tmp.12 %tmp.13;
+        bf %tmp.14 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_12_52_12_if_end;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_12_52_12_if_true:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_43_52_12_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 51 16 ]
+        symbol [ manager %tmp.16 51 16 23 ];
+        %tmp.16 = getv ? :manager;
+        symbol [ stopAndSaveSession %tmp.17 51 24 42 ];
+        %tmp.17 = getv function %tmp.16 :stopAndSaveSession;
+        invoke %tmp.16 %tmp.17();
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_43_52_12_stop:
+        goto @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_12_52_12_if_end;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_50_12_52_12_if_end:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_48_15_53_8_stop:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_45_8_53_8_if_end:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 54 8 ]
+        %tmp.18 = true;
+        ret %tmp.18;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_44_33_55_4_stop:
+    }
+    [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 58; @symbol_functiondef = [onBack,58,13,19]; @symbol_return<0> = [Boolean,58,25,32]; ]
+    function onBack() as Boolean {
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_58_33_62_4_start:
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc" 61 8 ]
+        %tmp.1 = false;
+        ret %tmp.1;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroDelegate_mc_58_33_62_4_stop:
+    }
+}
+[ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroDelegate.mc"; @line = 1; ]
+<init> {
+}

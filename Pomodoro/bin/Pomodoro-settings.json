@@ -1,0 +1,80 @@
+{
+  "settings" : [ {
+    "key" : "pomodoroDuration",
+    "valueType" : "number",
+    "defaultValue" : 25,
+    "configTitle" : "PomodoroDurationTitle",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 1,
+    "configMax" : 90,
+    "configMaxLength" : null
+  }, {
+    "key" : "breakDuration",
+    "valueType" : "number",
+    "defaultValue" : 5,
+    "configTitle" : "BreakDurationTitle",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 1,
+    "configMax" : 30,
+    "configMaxLength" : null
+  }, {
+    "key" : "longBreakDuration",
+    "valueType" : "number",
+    "defaultValue" : 15,
+    "configTitle" : "LongBreakDurationTitle",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 1,
+    "configMax" : 60,
+    "configMaxLength" : null
+  }, {
+    "key" : "cyclesPerSet",
+    "valueType" : "number",
+    "defaultValue" : 4,
+    "configTitle" : "CyclesTitle",
+    "configPrompt" : null,
+    "configType" : "numeric",
+    "configError" : null,
+    "configHelpUrl" : null,
+    "configReadonly" : false,
+    "configRequired" : false,
+    "configOptions" : null,
+    "configMin" : 1,
+    "configMax" : 10,
+    "configMaxLength" : null
+  } ],
+  "supportsLiveValidation" : false,
+  "languages" : {
+    "valyrian" : {
+      "BreakDurationTitle" : "Break (min)",
+      "FitIntUnits" : "s",
+      "CyclesTitle" : "Blocks per cycle",
+      "LongBreakDurationTitle" : "Long Break (min)",
+      "FitTasksLabel" : "Tasks",
+      "FitFocusLabel" : "Focus",
+      "FitFocusUnits" : "s",
+      "FitIntLabel" : "Interruptions",
+      "PomodoroDurationTitle" : "Focus (min)",
+      "FitTasksUnits" : "tasks",
+      "FitTasksChartTitle" : "Tasks Completed",
+      "AppName" : "Pomodoro"
+    }
+  }
+}

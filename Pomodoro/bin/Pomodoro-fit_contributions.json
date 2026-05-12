@@ -1,0 +1,47 @@
+{
+  "datafields" : [ {
+    "id" : 0,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "FitFocusLabel",
+    "unit-label-key" : "FitFocusUnits",
+    "sort-order" : 0,
+    "precision" : 0,
+    "fill-color" : null
+  }, {
+    "id" : 1,
+    "chart-visible" : false,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : null,
+    "label-key" : "FitIntLabel",
+    "unit-label-key" : "FitIntUnits",
+    "sort-order" : 1,
+    "precision" : 0,
+    "fill-color" : null
+  }, {
+    "id" : 2,
+    "chart-visible" : true,
+    "activity-visible" : false,
+    "lap-visible" : false,
+    "chart-title-key" : "FitTasksChartTitle",
+    "label-key" : "FitTasksLabel",
+    "unit-label-key" : "FitTasksUnits",
+    "sort-order" : 2,
+    "precision" : 0,
+    "fill-color" : "rgba(0, 128, 0, 1.0)"
+  } ],
+  "strings" : {
+    "default" : {
+      "FitFocusLabel" : "Focus",
+      "FitFocusUnits" : "s",
+      "FitIntLabel" : "Interruptions",
+      "FitIntUnits" : "s",
+      "FitTasksChartTitle" : "Tasks Completed",
+      "FitTasksLabel" : "Tasks",
+      "FitTasksUnits" : "tasks"
+    }
+  }
+}
