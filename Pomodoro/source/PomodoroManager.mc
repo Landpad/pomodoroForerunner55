@@ -223,33 +223,42 @@ class PomodoroManager {
     
 
     function setUpdateMode(dynamic as Boolean) as Void {
+  
         if (currentState == STATE_IDLE) { 
             isInSleepMode = false;
-            return; 
-        }
-        
-        if (isRecordingEnabled) { 
-            isInSleepMode = false;
-            startTimer(1000, true);
-            return; 
-        }
-
-        if (!dynamic && !isInSleepMode && currentState != STATE_PAUSED) {            
-            isInSleepMode = true;
-            var msRemaining = timeRemaining * 1000;
-            targetEndTime = System.getTimer() + msRemaining;
-
             stopTimer();
-            startTimer(msRemaining, false);
+            return; 
+        }
 
-        } else if (dynamic && isInSleepMode) {            
-            isInSleepMode = false;
-            if (targetEndTime != null) {
-                var now = System.getTimer();
-                timeRemaining = (targetEndTime - now) / 1000;
-                if (timeRemaining < 0) { timeRemaining = 0; }
+        
+        if (isRecordingEnabled || dynamic || currentState == STATE_PAUSED) {
+            
+  
+            if (isInSleepMode || appTimer == null) {
+                
+
+                if (isInSleepMode && targetEndTime != null) {
+                    var now = System.getTimer();
+                    timeRemaining = (targetEndTime - now) / 1000;
+                    if (timeRemaining < 0) { timeRemaining = 0; }
+                    targetEndTime = null;
+                }
+                
+                isInSleepMode = false;
+                startTimer(1000, true);
+                
             }
-            startTimer(1000, true);
+        } 
+        
+        else {
+            if (!isInSleepMode) {
+                isInSleepMode = true;
+                var msRemaining = timeRemaining * 1000;
+                targetEndTime = System.getTimer() + msRemaining;
+                                
+                startTimer(msRemaining, false);            
+
+            }
         }
     }
 
@@ -272,8 +281,9 @@ class PomodoroManager {
     function onTimerTick() as Void {
         if (isInSleepMode) {            
             timeRemaining = 0;
-            processPhaseChange();
-            setUpdateMode(false); 
+            processPhaseChange();            
+            isInSleepMode = false; 
+            setUpdateMode(false);
         } else {            
             if (currentState == STATE_FOCUS) {
                 timeRemaining--;
