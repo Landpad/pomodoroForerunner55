@@ -7,8 +7,8 @@ import Toybox.ActivityRecording;
 import Toybox.FitContributor;
 import Toybox.Attention;
 import Toybox.Sensor;
-import Toybox.Math;
 import Toybox.Lang;
+
 enum {
     STATE_IDLE,
     STATE_FOCUS,
@@ -16,28 +16,35 @@ enum {
     STATE_PAUSED
 }
 
-class PomodoroManager {
+class PomodoroManager {    
     var currentState = STATE_IDLE;
     var previousState = STATE_IDLE; 
-    
-    // Tiempos configurables (en segundos)
+        
     var focusDurationSecs as Number = 1500;
     var breakDurationSecs as Number = 300;  
     var longBreakDurationSecs as Number = 900;
-    
-    // Control de Bloques (Ciclos)
+        
     var cyclesPerSet as Number = 4;
     var currentCycle as Number = 1;
     var isLongBreak as Boolean = false;
     
     var timeRemaining as Number = 1500;
     
-    // Métricas
     var completedTasks as Number = 0;
     var interruptionCount as Number = 0;
     var totalFocusTime as Number = 0;
     var totalInterruptionTime as Number = 0;
     var currentInterruptionTimer as Number = 0;
+    
+    var isAccelEnabled as Boolean = true;
+    var accelThreshold as Number = 2500;
+    var isRecordingEnabled as Boolean = true;
+    
+    var uiNeeds1HzUpdate as Boolean = true; 
+    var idlePauseSecs as Number = 0;
+    
+    private var targetEndTime as Number? = null; 
+    private var isInSleepMode as Boolean = false;
 
     private var appTimer as Timer.Timer?;
     private var session as ActivityRecording.Session?;
@@ -46,15 +53,10 @@ class PomodoroManager {
     private var fitInterruptionTime as FitContributor.Field?;
     private var fitTasks as FitContributor.Field?;
 
-    var uiNeeds1HzUpdate as Boolean = true;
-    var isRecordingEnabled as Boolean = true;
-    var isAccelEnabled as Boolean = true;
-    var accelThreshold as Number = 2500;
-
     function initialize() {
         reloadSettings();
-        enableAccelerometer();
     }
+
 
     function reloadSettings() as Void {
         var focusMin = Properties.getValue("pomodoroDuration");
@@ -66,22 +68,21 @@ class PomodoroManager {
         breakDurationSecs = (breakMin != null ? breakMin : 5) * 60;
         longBreakDurationSecs = (longBreakMin != null ? longBreakMin : 15) * 60;
         cyclesPerSet = (cyclesVal != null ? cyclesVal : 4);
-
+                
         var accelOn = Properties.getValue("accelEnabled");
         var thresholdVal = Properties.getValue("accelThreshold");
+        var recordVal = Properties.getValue("recordActivity");
         
         isAccelEnabled = (accelOn != null ? accelOn : true);
         accelThreshold = (thresholdVal != null ? thresholdVal : 2500);
-
-        var recordVal = Properties.getValue("recordActivity");
         isRecordingEnabled = (recordVal != null ? recordVal : true);
-
+        
         if (!isAccelEnabled) {
             Sensor.unregisterSensorDataListener();
         } else {
             enableAccelerometer();
         }
-
+        
         if (!isRecordingEnabled && session != null) {
             if (session has :stop) { session.stop(); }
             if (session has :discard) { session.discard(); }
@@ -90,12 +91,11 @@ class PomodoroManager {
 
         if (currentState == STATE_IDLE) {
             timeRemaining = focusDurationSecs;
-        }
-
-        if (currentState == STATE_IDLE) {
-            timeRemaining = focusDurationSecs;
+            currentCycle = 1;
+            isLongBreak = false;
         }
     }
+    
 
     function saveState() as Void {
         Storage.setValue("state", currentState);
@@ -128,11 +128,12 @@ class PomodoroManager {
             var savedLongBrk = Storage.getValue("longBrk");
             if (savedLongBrk != null) { isLongBreak = savedLongBrk; }
             
-            if (currentState == STATE_FOCUS || currentState == STATE_BREAK || currentState == STATE_PAUSED) {
-                startTimer();
+            if (currentState == STATE_FOCUS || currentState == STATE_BREAK || currentState == STATE_PAUSED) {                
+                setUpdateMode(true);
             }
         }
     }
+    
 
     function startSession() as Void {
         if (currentState == STATE_IDLE) {
@@ -140,7 +141,8 @@ class PomodoroManager {
             timeRemaining = focusDurationSecs;
             currentCycle = 1;
             isLongBreak = false;
-                        
+            idlePauseSecs = 0;
+            
             if (isRecordingEnabled && session == null && ActivityRecording has :createSession) {
                 session = ActivityRecording.createSession({
                     :name=>"Pomodoro",
@@ -154,14 +156,16 @@ class PomodoroManager {
                     session.start();
                 }
             }
-            startTimer();
+            setUpdateMode(true);
         } else if (currentState == STATE_PAUSED) {
             currentState = (previousState != STATE_IDLE) ? previousState : STATE_FOCUS;
-                        
+            idlePauseSecs = 0;
+            
             if (isRecordingEnabled && session != null && session has :start) {
                 session.start();
             }
             updateFitFields();
+            setUpdateMode(true);
         }
         WatchUi.requestUpdate();
     }
@@ -172,18 +176,22 @@ class PomodoroManager {
             currentState = STATE_PAUSED;
             interruptionCount++;
             currentInterruptionTimer = 0;
+            idlePauseSecs = 0;
             
             if (session != null && session has :stop) {
                 session.stop();
             }
             updateFitFields();
+            setUpdateMode(true);
             WatchUi.requestUpdate();
         }
     }
 
     function stopAndSaveSession() as Void {
         stopTimer();
-                
+        isInSleepMode = false;
+        targetEndTime = null;
+        
         if (session != null) {
             updateFitFields();
             if (session has :stop) { session.stop(); }
@@ -200,6 +208,7 @@ class PomodoroManager {
         interruptionCount = 0;
         totalFocusTime = 0;
         totalInterruptionTime = 0;
+        idlePauseSecs = 0;
         
         Storage.clearValues();
         WatchUi.requestUpdate();
@@ -211,12 +220,46 @@ class PomodoroManager {
         updateFitFields();
         WatchUi.requestUpdate();
     }
+    
 
-    private function startTimer() as Void {
+    function setUpdateMode(dynamic as Boolean) as Void {
+        if (currentState == STATE_IDLE) { 
+            isInSleepMode = false;
+            return; 
+        }
+        
+        if (isRecordingEnabled) { 
+            isInSleepMode = false;
+            startTimer(1000, true);
+            return; 
+        }
+
+        if (!dynamic && !isInSleepMode && currentState != STATE_PAUSED) {            
+            isInSleepMode = true;
+            var msRemaining = timeRemaining * 1000;
+            targetEndTime = System.getTimer() + msRemaining;
+
+            stopTimer();
+            startTimer(msRemaining, false);
+
+        } else if (dynamic && isInSleepMode) {            
+            isInSleepMode = false;
+            if (targetEndTime != null) {
+                var now = System.getTimer();
+                timeRemaining = (targetEndTime - now) / 1000;
+                if (timeRemaining < 0) { timeRemaining = 0; }
+            }
+            startTimer(1000, true);
+        }
+    }
+
+    private function startTimer(period as Number, repeat as Boolean) as Void {
+        stopTimer();
         if (appTimer == null) {
             appTimer = new Timer.Timer();
-            appTimer.start(method(:onTimerTick), 1000, true); 
         }
+        var safePeriod = (period > 100) ? period : 100;
+        appTimer.start(method(:onTimerTick), safePeriod, repeat);
     }
 
     private function stopTimer() as Void {
@@ -227,96 +270,104 @@ class PomodoroManager {
     }
 
     function onTimerTick() as Void {
-        if (currentState == STATE_FOCUS) {
-            timeRemaining--;
-            totalFocusTime++;
-            if (timeRemaining <= 0) {
-                triggerAlert();
-                currentState = STATE_BREAK;
-                
-                // Lógica de Bloques: Evaluamos si toca descanso corto o largo
-                if (currentCycle < cyclesPerSet) {
-                    isLongBreak = false;
-                    timeRemaining = breakDurationSecs;
-                    currentCycle++; // Avanzamos al siguiente bloque
-                } else {
-                    isLongBreak = true;
-                    timeRemaining = longBreakDurationSecs;
-                    currentCycle = 1; // Reiniciamos el set de bloques
+        if (isInSleepMode) {            
+            timeRemaining = 0;
+            processPhaseChange();
+            setUpdateMode(false); 
+        } else {            
+            if (currentState == STATE_FOCUS) {
+                timeRemaining--;
+                totalFocusTime++;
+                if (timeRemaining <= 0) { processPhaseChange(); }
+            } else if (currentState == STATE_BREAK) {
+                timeRemaining--;
+                if (timeRemaining <= 0) { processPhaseChange(); }
+            } else if (currentState == STATE_PAUSED) {
+                totalInterruptionTime++;
+                currentInterruptionTimer++;
+                idlePauseSecs++;
+                                
+                if (idlePauseSecs >= 900) { 
+                    stopAndSaveSession(); 
+                    return;
                 }
             }
-        } else if (currentState == STATE_BREAK) {
-            timeRemaining--;
-            if (timeRemaining <= 0) {
-                triggerAlert();
-                currentState = STATE_FOCUS;
-                timeRemaining = focusDurationSecs;
+            
+            updateFitFields();
+            if (uiNeeds1HzUpdate) { WatchUi.requestUpdate(); }
+        }
+    }
+
+    private function processPhaseChange() as Void {
+        triggerAlert();
+        if (currentState == STATE_FOCUS) {
+            currentState = STATE_BREAK;
+            if (currentCycle < cyclesPerSet) {
                 isLongBreak = false;
+                timeRemaining = breakDurationSecs;
+                currentCycle++;
+            } else {
+                isLongBreak = true;
+                timeRemaining = longBreakDurationSecs;
+                currentCycle = 1;
             }
-        } else if (currentState == STATE_PAUSED) {
-            totalInterruptionTime++;
-            currentInterruptionTimer++;
+        } else if (currentState == STATE_BREAK) {
+            currentState = STATE_FOCUS;
+            timeRemaining = focusDurationSecs;
+            isLongBreak = false;
         }
         
-        updateFitFields();
-
-        if (uiNeeds1HzUpdate) {
-            WatchUi.requestUpdate();
+        if (isInSleepMode) {
+            targetEndTime = System.getTimer() + (timeRemaining * 1000);
         }
-
     }
 
     private function updateFitFields() as Void {
-        if (session != null) {
-            if (fitFocusTime != null) { fitFocusTime.setData(totalFocusTime); }
-            if (fitInterruptionTime != null) { fitInterruptionTime.setData(totalInterruptionTime); }
+        if (session != null && isRecordingEnabled) {
+            if (fitFocusTime != null) { fitFocusTime.setData(totalFocusTime.toFloat()); }
+            if (fitInterruptionTime != null) { fitInterruptionTime.setData(totalInterruptionTime.toFloat()); }
             if (fitTasks != null) { fitTasks.setData(completedTasks); }
         }
     }
+    
 
     private function enableAccelerometer() as Void {
         if (isAccelEnabled && Sensor has :registerSensorDataListener) {
-            var options = {
-                :period => 1, 
-                :accelerometer => {
-                    :enabled => true, 
-                    :sampleRate => 10
-                }
-            };
+            var options = {:period => 1, :accelerometer => {:enabled => true, :sampleRate => 10}};
             try {
                 Sensor.registerSensorDataListener(method(:onSensorData), options);
-            } catch (e) {
-                System.println("Error al registrar sensor: " + e.getErrorMessage());
+            } catch (e) {                
             }
         }
     }
 
     function onSensorData(sensorData as Sensor.SensorData) as Void {
-        
         if (!isAccelEnabled || currentState != STATE_FOCUS) { return; }
 
-        var accelData = sensorData.accelerometerData;
-        if (accelData != null) {
-            for (var i = 0; i < accelData.x.size(); i++) {
-                // Leemos los valores en crudo
-                var rawX = accelData.x[i];
-                var rawY = accelData.y[i];
-                var rawZ = accelData.z[i];
+        var data = sensorData.accelerometerData;
+        if (data != null) {            
+            var threshold = accelThreshold;
+            var xArr = data.x;
+            var yArr = data.y;
+            var zArr = data.z;
 
-               
+            for (var i = 0; i < xArr.size(); i++) {
+                var rawX = xArr[i];
+                var rawY = yArr[i];
+                var rawZ = zArr[i];
+                
                 var x = rawX < 0 ? -rawX : rawX;
                 var y = rawY < 0 ? -rawY : rawY;
                 var z = rawZ < 0 ? -rawZ : rawZ;
 
-                
-                if (x > accelThreshold || y > accelThreshold || z > accelThreshold) {
+                if (x > threshold || y > threshold || z > threshold) {
                     triggerVibrateOnly();
                     break; 
                 }
             }
         }
     }
-    
+
     private function triggerAlert() as Void {
         if (Attention has :vibrate) {
             var vibeData = [new Attention.VibeProfile(100, 1000)];

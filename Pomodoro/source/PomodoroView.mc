@@ -161,11 +161,12 @@ class PomodoroView extends WatchUi.View {
 
     private function updateManagerRefreshFlag() as Void {
         
-        if (currentPage == 0 || currentPage == 2) {
-            manager.uiNeeds1HzUpdate = true;
+        if (currentPage == 0 || (currentPage == 2 && manager.currentState == 3)) {
+            manager.uiNeeds1HzUpdate = true;            
+            manager.setUpdateMode(true);
         } else {
-            // Páginas 1 y 3 se quedan totalmente quietas ahorrando CPU
-            manager.uiNeeds1HzUpdate = false;
+            manager.uiNeeds1HzUpdate = false;            
+            manager.setUpdateMode(false);
         }
     }
 }

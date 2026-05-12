@@ -1314,45 +1314,71 @@ C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_sou
     [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc"; @line = 162; @symbol_functiondef = [updateManagerRefreshFlag,162,21,45]; ]
     private
     function updateManagerRefreshFlag() as Void {
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_162_56_170_4_start:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_162_56_171_4_start:
 [ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc" 164 8 ]
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_stmt:
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_12_164_47_begin:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_stmt:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_12_164_78_begin:
         symbol [ currentPage %tmp.2 164 12 23 ];
         %tmp.2 = getv ? :currentPage;
         %tmp.3 = 0;
         %tmp.4 = eq %tmp.2 %tmp.3;
-        bt %tmp.4 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_true;
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_47_false:
-        symbol [ currentPage %tmp.6 164 32 43 ];
+        bt %tmp.4 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_true;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_78_false:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_33_164_77_begin:
+        symbol [ currentPage %tmp.6 164 33 44 ];
         %tmp.6 = getv ? :currentPage;
         %tmp.7 = 2;
         %tmp.8 = eq %tmp.6 %tmp.7;
-        push %tmp.8;
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_47_end:
-        %tmp.9 = phi [%tmp.4 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_12_164_47_begin] [%tmp.8 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_47_false] [%tmp.9 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_47_end];
-        bf %tmp.9 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_else_false;
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_true:
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_50_166_8_start:
+        bf %tmp.8 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_else_false;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_53_164_77_true:
+        symbol [ manager %tmp.10 164 53 60 ];
+        %tmp.10 = getv ? :manager;
+        symbol [ currentState %tmp.11 164 61 73 ];
+        %tmp.11 = getv %tmp.10 :currentState;
+        %tmp.12 = 3;
+        %tmp.13 = eq %tmp.11 %tmp.12;
+        push %tmp.13;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_53_164_77_end:
+        %tmp.14 = phi [%tmp.8 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_33_164_77_begin] [%tmp.13 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_53_164_77_true] [%tmp.14 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_53_164_77_end];
+        push %tmp.14;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_78_end:
+        %tmp.15 = phi [%tmp.4 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_12_164_78_begin] [%tmp.14 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_78_false] [%tmp.15 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_32_164_78_end];
+        bf %tmp.15 @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_else_false;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_true:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_81_167_8_start:
 [ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc" 165 12 ]
-        symbol [ manager %tmp.10 165 12 19 ];
-        %tmp.10 = getv self :manager;
-        %tmp.11 = true;
+        symbol [ manager %tmp.16 165 12 19 ];
+        %tmp.16 = getv self :manager;
+        %tmp.17 = true;
         symbol [ uiNeeds1HzUpdate ? 165 20 36 ];
-        putv %tmp.10 :uiNeeds1HzUpdate %tmp.11;
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_50_166_8_stop:
-        goto @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_end;
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_else_false:
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_166_15_169_8_start:
+        putv %tmp.16 :uiNeeds1HzUpdate %tmp.17;
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc" 166 12 ]
+        symbol [ manager %tmp.19 166 12 19 ];
+        %tmp.19 = getv ? :manager;
+        symbol [ setUpdateMode %tmp.20 166 20 33 ];
+        %tmp.20 = getv function %tmp.19 :setUpdateMode;
+        %tmp.21 = true;
+        invoke %tmp.19 %tmp.20(%tmp.21);
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_81_167_8_stop:
+        goto @C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_end;
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_else_false:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_167_15_170_8_start:
 [ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc" 168 12 ]
-        symbol [ manager %tmp.12 168 12 19 ];
-        %tmp.12 = getv self :manager;
-        %tmp.13 = false;
+        symbol [ manager %tmp.22 168 12 19 ];
+        %tmp.22 = getv self :manager;
+        %tmp.23 = false;
         symbol [ uiNeeds1HzUpdate ? 168 20 36 ];
-        putv %tmp.12 :uiNeeds1HzUpdate %tmp.13;
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_166_15_169_8_stop:
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_169_8_if_end:
-C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_162_56_170_4_stop:
+        putv %tmp.22 :uiNeeds1HzUpdate %tmp.23;
+[ "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc" 169 12 ]
+        symbol [ manager %tmp.25 169 12 19 ];
+        %tmp.25 = getv ? :manager;
+        symbol [ setUpdateMode %tmp.26 169 20 33 ];
+        %tmp.26 = getv function %tmp.25 :setUpdateMode;
+        %tmp.27 = false;
+        invoke %tmp.25 %tmp.26(%tmp.27);
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_167_15_170_8_stop:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_164_8_170_8_if_end:
+C__Users_tobia_source_repos_PomodoroForerunner_pomodoroForerunner55_Pomodoro_source_PomodoroView_mc_162_56_171_4_stop:
     }
 }
 [ @file = "C:\Users\tobia\source\repos\PomodoroForerunner\pomodoroForerunner55\Pomodoro\source\PomodoroView.mc"; @line = 1; ]
