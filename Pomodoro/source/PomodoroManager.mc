@@ -46,6 +46,8 @@ class PomodoroManager {
     private var fitInterruptionTime as FitContributor.Field?;
     private var fitTasks as FitContributor.Field?;
 
+    var uiNeeds1HzUpdate as Boolean = true;
+
     var isAccelEnabled as Boolean = true;
     var accelThreshold as Number = 2500;
 
@@ -249,7 +251,11 @@ class PomodoroManager {
         }
         
         updateFitFields();
-        WatchUi.requestUpdate();
+
+        if (uiNeeds1HzUpdate) {
+            WatchUi.requestUpdate();
+        }
+                
     }
 
     private function updateFitFields() as Void {
